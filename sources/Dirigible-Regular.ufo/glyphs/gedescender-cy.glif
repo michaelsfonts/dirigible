@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gedescender-cy" format="2">
+  <advance width="497"/>
+  <unicode hex="04F7"/>
+  <outline>
+    <contour>
+      <point x="162.0" y="-130.14918518066406"/>
+      <point x="210.0" y="-178.73410034179688"/>
+      <point x="243.0" y="-178.73410034179688" type="curve" smooth="yes"/>
+      <point x="277.0" y="-178.73410034179688"/>
+      <point x="324.0" y="-130.14918518066406"/>
+      <point x="324.0" y="-93.1491928100586" type="curve" smooth="yes"/>
+      <point x="324.0" y="48.45561218261719" type="line" smooth="yes"/>
+      <point x="324.0" y="85.45561218261719"/>
+      <point x="287.7408752441406" y="123.0"/>
+      <point x="250.74085998535156" y="123.0" type="curve" smooth="yes"/>
+      <point x="246.69634399414062" y="123.0" type="line"/>
+      <point x="245.21335479736328" y="123.0"/>
+      <point x="244.0" y="124.21335479736328"/>
+      <point x="244.0" y="125.69634399414062" type="curve" smooth="yes"/>
+      <point x="244.0" y="351.0" type="line"/>
+      <point x="244.0" y="357.6"/>
+      <point x="249.4" y="363.0"/>
+      <point x="256.0" y="363.0" type="curve" smooth="yes"/>
+      <point x="426.9601745605469" y="363.0" type="line" smooth="yes"/>
+      <point x="460.9601745605469" y="363.0"/>
+      <point x="510.24591064453125" y="408.0"/>
+      <point x="510.24591064453125" y="440.0" type="curve" smooth="yes"/>
+      <point x="510.24591064453125" y="472.0"/>
+      <point x="460.9601745605469" y="517.0"/>
+      <point x="426.9601745605469" y="517.0" type="curve" smooth="yes"/>
+      <point x="149.4020233154297" y="517.0" type="line" smooth="yes"/>
+      <point x="104.40202331542969" y="517.0"/>
+      <point x="63.0" y="475.5979919433594"/>
+      <point x="63.0" y="430.5979919433594" type="curve" smooth="yes"/>
+      <point x="63.0" y="52.6614990234375" type="line" smooth="yes"/>
+      <point x="63.0" y="11.661499977111816"/>
+      <point x="101.14083099365234" y="-28.0"/>
+      <point x="141.14083099365234" y="-28.0" type="curve" smooth="yes"/>
+      <point x="153.65633239746094" y="-28.0" type="line"/>
+      <point x="158.24534957885743" y="-28.0"/>
+      <point x="162.0" y="-31.75465042114258"/>
+      <point x="162.0" y="-36.343667602539064" type="curve" smooth="yes"/>
+      <point x="162.0" y="-93.1491928100586" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

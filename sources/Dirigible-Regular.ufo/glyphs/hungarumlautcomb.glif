@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <advance width="40"/>
+  <unicode hex="030B"/>
+  <anchor x="0" y="484" name="_top"/>
+  <anchor x="0" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="23.5593318939209" y="522.839599609375"/>
+      <point x="129.66249084472656" y="494.0307312011719"/>
+      <point x="145.66249084472656" y="530.03076171875" type="curve" smooth="yes"/>
+      <point x="233.8044891357422" y="730.7232666015625" type="line" smooth="yes"/>
+      <point x="260.8044891357422" y="792.7232666015625"/>
+      <point x="99.5029525756836" y="836.3632202148438"/>
+      <point x="83.5029525756836" y="770.3632202148438" type="curve" smooth="yes"/>
+      <point x="82.53905792236328" y="766.3773803710938" type="line"/>
+      <point x="82.1856298828125" y="764.9159057617187"/>
+      <point x="80.66752125241473" y="763.7762518915732"/>
+      <point x="79.16548318814603" y="763.8448162152148" type="curve" smooth="yes"/>
+      <point x="55.398841857910156" y="805.12060546875"/>
+      <point x="-51.39313507080078" y="822.8621826171875"/>
+      <point x="-64.3083724975586" y="770.39404296875" type="curve" smooth="yes"/>
+      <point x="-115.59770202636719" y="563.886962890625" type="line" smooth="yes"/>
+      <point x="-125.59770202636719" y="522.886962890625"/>
+      <point x="-19.337509155273438" y="494.0307312011719"/>
+      <point x="-3.3375110626220703" y="530.03076171875" type="curve" smooth="yes"/>
+      <point x="60.57584762573242" y="675.5565185546875" type="line"/>
+      <point x="33.5593318939209" y="563.839599609375" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

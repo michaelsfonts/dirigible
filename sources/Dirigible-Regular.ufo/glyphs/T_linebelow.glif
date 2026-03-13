@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tlinebelow" format="2">
+  <advance width="621"/>
+  <unicode hex="1E6E"/>
+  <anchor x="311" y="-170" name="bottom"/>
+  <anchor x="311" y="358" name="center"/>
+  <anchor x="311" y="705" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="macronbelowcomb" xOffset="311"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.Qtail" format="2">
+  <advance width="819"/>
+  <anchor x="390" y="-9" name="_Qtail"/>
+  <outline>
+    <contour>
+      <point x="607.7446899414062" y="-273.53924560546875"/>
+      <point x="767.1487426757812" y="-195.10171508789062"/>
+      <point x="721.1487426757812" y="-123.10171508789062" type="curve" smooth="yes"/>
+      <point x="657.9547119140625" y="-23.167062759399414" type="line" smooth="yes"/>
+      <point x="622.9547119140625" y="31.832937240600586"/>
+      <point x="573.2587280273438" y="60.98412322998047"/>
+      <point x="511.2587585449219" y="60.98412322998047" type="curve"/>
+      <point x="351.46830650094716" y="-1.9636295385567974" type="line"/>
+      <point x="345.32761109437155" y="-4.3826913243863865"/>
+      <point x="345.16361836455354" y="-8.715290103660793"/>
+      <point x="351.10387821246275" y="-11.59162682583326" type="curve" smooth="yes"/>
+      <point x="385.30340576171875" y="-6.361923694610596"/>
+      <point x="466.500244140625" y="-45.66777038574219"/>
+      <point x="485.500244140625" y="-76.66777038574219" type="curve" smooth="yes"/>
+      <point x="563.7446899414062" y="-202.5392608642578" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

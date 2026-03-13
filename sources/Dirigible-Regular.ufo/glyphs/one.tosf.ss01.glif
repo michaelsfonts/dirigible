@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tosf.ss01" format="2">
+  <advance width="640"/>
+  <outline>
+    <contour>
+      <point x="275.0" y="-3.2701096534729004"/>
+      <point x="323.4613952636719" y="-46.507965087890625"/>
+      <point x="367.4613952636719" y="-46.507965087890625" type="curve" smooth="yes"/>
+      <point x="410.4613952636719" y="-46.507965087890625"/>
+      <point x="456.0" y="4.127725601196289"/>
+      <point x="456.0" y="39.127723693847656" type="curve" smooth="yes"/>
+      <point x="456.0" y="457.357177734375" type="line" smooth="yes"/>
+      <point x="456.0" y="492.357177734375"/>
+      <point x="413.82366943359375" y="529.5881958007812"/>
+      <point x="376.82366943359375" y="529.5881958007812" type="curve" smooth="yes"/>
+      <point x="358.82366943359375" y="529.5881958007812"/>
+      <point x="319.46563720703125" y="511.1302795410156"/>
+      <point x="294.46563720703125" y="496.1302795410156" type="curve" smooth="yes"/>
+      <point x="116.93255615234375" y="389.8440246582031" type="line" smooth="yes"/>
+      <point x="54.93255615234375" y="352.8440246582031"/>
+      <point x="133.0697479248047" y="215.29356384277344"/>
+      <point x="196.0697479248047" y="253.29356384277344" type="curve" smooth="yes"/>
+      <point x="264.7277831639607" y="294.75587770550715" type="line"/>
+      <point x="270.3775024237823" y="298.167720651072"/>
+      <point x="275.0" y="295.559228515625"/>
+      <point x="275.0" y="288.959228515625" type="curve" smooth="yes"/>
+      <point x="275.0" y="38.729888916015625" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb" format="2">
+  <advance width="40"/>
+  <unicode hex="0307"/>
+  <anchor x="0" y="484" name="_top"/>
+  <anchor x="0" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="-85.39802551269531" y="616.1614990234375"/>
+      <point x="-22.148170471191406" y="554.1500854492188"/>
+      <point x="19.85182772576809" y="554.1500854492188" type="curve" smooth="yes"/>
+      <point x="62.851829528808594" y="554.1500854492188"/>
+      <point x="126.7221450805664" y="615.1626586914062"/>
+      <point x="126.7221450805664" y="656.1626586914062" type="curve" smooth="yes"/>
+      <point x="126.7221450805664" y="696.1626586914062"/>
+      <point x="61.85306167602539" y="756.5548095703125"/>
+      <point x="19.853063449263573" y="756.5548095703125" type="curve" smooth="yes"/>
+      <point x="-22.14693832397461" y="756.5548095703125"/>
+      <point x="-85.39802551269531" y="696.1614990234375"/>
+      <point x="-85.39802551269531" y="656.1614990234375" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

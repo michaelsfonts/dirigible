@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve" format="2">
+  <outline>
+    <contour>
+      <point x="127" y="-7" type="curve" smooth="yes"/>
+      <point x="168" y="-7"/>
+      <point x="190" y="18"/>
+      <point x="190" y="61" type="curve" smooth="yes"/>
+      <point x="190" y="428" type="line" smooth="yes"/>
+      <point x="190" y="472"/>
+      <point x="167" y="496"/>
+      <point x="127" y="496" type="curve" smooth="yes"/>
+      <point x="87" y="496"/>
+      <point x="65" y="472"/>
+      <point x="65" y="428" type="curve" smooth="yes"/>
+      <point x="65" y="61" type="line" smooth="yes"/>
+      <point x="65" y="18"/>
+      <point x="87" y="-7"/>
+    </contour>
+    <contour>
+      <point x="127" y="551" type="curve" smooth="yes"/>
+      <point x="221" y="551"/>
+      <point x="277" y="618"/>
+      <point x="290" y="707" type="curve" smooth="yes"/>
+      <point x="294" y="734"/>
+      <point x="280" y="752"/>
+      <point x="258" y="753" type="curve" smooth="yes"/>
+      <point x="236" y="754"/>
+      <point x="221" y="742"/>
+      <point x="217" y="717" type="curve" smooth="yes"/>
+      <point x="207" y="657"/>
+      <point x="172" y="627"/>
+      <point x="127" y="627" type="curve" smooth="yes"/>
+      <point x="82" y="627"/>
+      <point x="47" y="657"/>
+      <point x="37" y="717" type="curve" smooth="yes"/>
+      <point x="33" y="742"/>
+      <point x="18" y="754"/>
+      <point x="-4" y="753" type="curve" smooth="yes"/>
+      <point x="-26" y="752"/>
+      <point x="-40" y="734"/>
+      <point x="-36" y="707" type="curve" smooth="yes"/>
+      <point x="-22" y="618"/>
+      <point x="33" y="551"/>
+    </contour>
+  </outline>
+</glyph>

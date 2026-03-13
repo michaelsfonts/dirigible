@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="283"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="71.14641189575195" y="412.4034729003906"/>
+      <point x="118.21625518798828" y="366.7576904296875"/>
+      <point x="142.21625518798828" y="366.7576904296875" type="curve" smooth="yes"/>
+      <point x="167.21624755859375" y="366.7576904296875"/>
+      <point x="211.8708038330078" y="412.5711364746094"/>
+      <point x="214.8708038330078" y="442.5711364746094" type="curve" smooth="yes"/>
+      <point x="236.1135711669922" y="649.4085693359375" type="line" smooth="yes"/>
+      <point x="240.1135711669922" y="691.4085693359375"/>
+      <point x="182.15908813476562" y="754.9266967773438"/>
+      <point x="142.15908813476562" y="754.9266967773438" type="curve" smooth="yes"/>
+      <point x="101.15908813476562" y="754.9266967773438"/>
+      <point x="42.87344932556152" y="690.5349731445312"/>
+      <point x="46.87344932556152" y="649.5349731445312" type="curve" smooth="yes"/>
+      <point x="68.14641189575195" y="442.4034729003906" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

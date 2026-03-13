@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb_dotaccentcomb" format="2">
+  <advance width="40"/>
+  <anchor x="0" y="484" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-37.61069869995117" y="587.1414794921875" type="line" smooth="yes"/>
+      <point x="-60.610694885253906" y="544.1414794921875"/>
+      <point x="48.02116775512695" y="485.2607116699219"/>
+      <point x="75.02116775512695" y="523.2607421875" type="curve" smooth="yes"/>
+      <point x="209.45391845703125" y="709.6031494140625" type="line" smooth="yes"/>
+      <point x="248.45391845703125" y="763.6031494140625"/>
+      <point x="101.54702758789062" y="845.8602294921875"/>
+      <point x="68.54703140258789" y="784.8602294921875" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-144.90110778808594" y="765.228759765625"/>
+      <point x="-75.71994018554688" y="711.31005859375"/>
+      <point x="-35.719940185546875" y="711.31005859375" type="curve" smooth="yes"/>
+      <point x="4.280060768127441" y="711.31005859375"/>
+      <point x="69.99169540405273" y="765.2259521484375"/>
+      <point x="69.99169540405273" y="796.2259521484375" type="curve" smooth="yes"/>
+      <point x="69.99169540405273" y="827.2259521484375"/>
+      <point x="3.2765026092529297" y="879.4116821289062"/>
+      <point x="-35.7234992980957" y="879.4116821289062" type="curve" smooth="yes"/>
+      <point x="-75.72349548339844" y="879.4116821289062"/>
+      <point x="-144.90110778808594" y="827.228759765625"/>
+      <point x="-144.90110778808594" y="796.228759765625" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
