@@ -4,6 +4,8 @@
 
 Dirigible is a display typeface based on [Nunito](https://github.com/googlefonts/nunito) by Vernon Adams. Every contour has been pushed outward and all corners rounded as far as they go, so the letters look inflated. Single weight, Regular only.
 
+The script that transforms Nunito into Dirigible is at `sources/dirigible.py`.
+
 ## Building
 
 Fonts are built using [gftools](https://github.com/googlefonts/gftools).
