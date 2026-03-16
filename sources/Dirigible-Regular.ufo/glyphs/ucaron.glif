@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ucaron" format="2">
   <advance width="579"/>
-  <unicode hex="01D4"/>
   <anchor x="289" y="0" name="bottom"/>
   <anchor x="479" y="0" name="ogonek"/>
   <anchor x="289" y="686" name="top"/>

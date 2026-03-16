@@ -1,4 +1,4 @@
-Copyright 2026 Michael Seh (michaelsfonts.com), based on Nunito by Vernon Adams
+Copyright 2026 The Dirigible Project Authors (https://github.com/michaelsfonts/dirigible)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

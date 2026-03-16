@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sigma" format="2">
   <advance width="640"/>
-  <unicode hex="03A3"/>
   <outline>
     <contour>
       <point x="6.140317916870117" y="-108.64823913574219"/>

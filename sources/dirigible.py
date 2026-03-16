@@ -262,9 +262,8 @@ def _round_corners(glyph, radius):
 
 
 COPYRIGHT = (
-    "Copyright 2026 Michael Seh (michaelsfonts.com), "
-    "based on Nunito by Vernon Adams. "
-    "Licensed under the SIL Open Font License, Version 1.1."
+    "Copyright 2026 The Dirigible Project Authors "
+    "(https://github.com/michaelsfonts/dirigible)"
 )
 
 

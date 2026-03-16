@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gstroke" format="2">
   <advance width="644"/>
-  <unicode hex="01E5"/>
   <outline>
     <contour>
       <point x="135.80513763427734" y="-198.61630249023438"/>

@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hcaron" format="2">
   <advance width="585"/>
-  <unicode hex="021F"/>
   <anchor x="294" y="0" name="bottom"/>
   <anchor x="294" y="248" name="center"/>
   <anchor x="303" y="352" name="dot"/>
