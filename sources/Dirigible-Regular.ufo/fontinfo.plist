@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>705</integer>
     <key>copyright</key>
-    <string>Copyright 2026 Michael Seh (michaelsfonts.com), based on Nunito by Vernon Adams. Licensed under the SIL Open Font License, Version 1.1.</string>
+    <string>Copyright 2026 The Dirigible Project Authors (https://github.com/michaelsfonts/dirigible)</string>
     <key>descender</key>
     <integer>-180</integer>
     <key>familyName</key>
@@ -100,17 +100,17 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
-    <string>Michael Seh</string>
+    <string>Vernon Adams</string>
     <key>openTypeNameDesignerURL</key>
-    <string>https://michaelsfonts.com</string>
+    <string>http://www.sansoxygen.com</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>https://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
-    <string>Michael's Fonts</string>
+    <string>Vernon Adams</string>
     <key>openTypeNameManufacturerURL</key>
-    <string>https://michaelsfonts.com</string>
+    <string>http://www.sansoxygen.com</string>
     <key>openTypeNamePreferredFamilyName</key>
     <string>Dirigible</string>
     <key>openTypeNamePreferredSubfamilyName</key>
