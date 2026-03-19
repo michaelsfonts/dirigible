@@ -11005,6 +11005,7 @@ Horizontal stems = LOno</string>
 		<string>ogonekcomb</string>
 		<string>brevebelowcomb</string>
 		<string>macronbelowcomb</string>
+		<string>verticallinebelowcomb</string>
 		<string>strokeshortcomb</string>
 		<string>slashshortcomb</string>
 		<string>slashlongcomb</string>
@@ -12575,6 +12576,8 @@ Horizontal stems = LOno</string>
 		<string>base</string>
 		<key>v</key>
 		<string>base</string>
+		<key>verticallinebelowcomb</key>
+		<string>mark</string>
 		<key>w</key>
 		<string>base</string>
 		<key>wacute</key>

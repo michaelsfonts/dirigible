@@ -2140,6 +2140,8 @@
 	<string>v.glif</string>
 	<key>ve-cy</key>
 	<string>ve-cy.glif</string>
+	<key>verticallinebelowcomb</key>
+	<string>verticallinebelowcomb.glif</string>
 	<key>verticallinelowmod</key>
 	<string>verticallinelowmod.glif</string>
 	<key>verticallinemod</key>
