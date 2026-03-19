@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.case" format="2">
-  <advance width="40"/>
-  <anchor x="0" y="705" name="_top"/>
-  <anchor x="0" y="865" name="top"/>
+  <advance width="0" />
+  <anchor x="0" y="705" name="_top" />
+  <anchor x="0" y="865" name="top" />
   <outline>
     <contour>
-      <point x="-34.1518440246582" y="734.04541015625" type="line" smooth="yes"/>
-      <point x="-1.151845932006836" y="698.04541015625"/>
-      <point x="95.72721862792969" y="769.7841186523438"/>
-      <point x="70.72721862792969" y="806.7841186523438" type="curve" smooth="yes"/>
-      <point x="-38.37446212768555" y="967.63916015625" type="line" smooth="yes"/>
-      <point x="-76.37445831298828" y="1022.63916015625"/>
-      <point x="-211.7518310546875" y="928.26416015625"/>
-      <point x="-168.7518310546875" y="881.26416015625" type="curve" smooth="yes"/>
+      <point x="-34.1518440246582" y="734.04541015625" type="line" smooth="yes" />
+      <point x="-1.151845932006836" y="698.04541015625" />
+      <point x="95.72721862792969" y="769.7841186523438" />
+      <point x="70.72721862792969" y="806.7841186523438" type="curve" smooth="yes" />
+      <point x="-38.37446212768555" y="967.63916015625" type="line" smooth="yes" />
+      <point x="-76.37445831298828" y="1022.63916015625" />
+      <point x="-211.7518310546875" y="928.26416015625" />
+      <point x="-168.7518310546875" y="881.26416015625" type="curve" smooth="yes" />
     </contour>
   </outline>
   <lib>

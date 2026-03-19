@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="slashshortcomb.case" format="2">
-  <advance width="40"/>
-  <anchor x="0" y="384" name="_center"/>
+  <advance width="0" />
+  <anchor x="0" y="384" name="_center" />
   <outline>
     <contour>
-      <point x="-271.03118896484375" y="304.4039001464844"/>
-      <point x="-195.52499389648438" y="170.69500732421875"/>
-      <point x="-133.52499389648438" y="206.69500732421875" type="curve" smooth="yes"/>
-      <point x="249.94163513183594" y="426.472900390625" type="line" smooth="yes"/>
-      <point x="311.941650390625" y="462.472900390625"/>
-      <point x="236.61636352539062" y="597.4306640625"/>
-      <point x="174.61636352539062" y="561.4306640625" type="curve" smooth="yes"/>
-      <point x="-209.03118896484375" y="340.4039001464844" type="line" smooth="yes"/>
+      <point x="-271.03118896484375" y="304.4039001464844" />
+      <point x="-195.52499389648438" y="170.69500732421875" />
+      <point x="-133.52499389648438" y="206.69500732421875" type="curve" smooth="yes" />
+      <point x="249.94163513183594" y="426.472900390625" type="line" smooth="yes" />
+      <point x="311.941650390625" y="462.472900390625" />
+      <point x="236.61636352539062" y="597.4306640625" />
+      <point x="174.61636352539062" y="561.4306640625" type="curve" smooth="yes" />
+      <point x="-209.03118896484375" y="340.4039001464844" type="line" smooth="yes" />
     </contour>
   </outline>
   <lib>

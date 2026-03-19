@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring" format="2">
-  <advance width="452"/>
-  <unicode hex="02DA"/>
-  <anchor x="226" y="484" name="_top"/>
-  <anchor x="226" y="685" name="top"/>
+  <advance width="452" />
+  <unicode hex="02DA" />
+  <anchor x="226" y="484" name="_top" />
+  <anchor x="226" y="685" name="top" />
   <outline>
-    <component base="ringcomb" xOffset="226"/>
+    <component base="ringcomb" xOffset="226" />
   </outline>
   <lib>
     <dict>

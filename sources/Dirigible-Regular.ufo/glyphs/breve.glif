@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breve" format="2">
-  <advance width="528"/>
-  <unicode hex="02D8"/>
-  <anchor x="264" y="484" name="_top"/>
-  <anchor x="264" y="685" name="top"/>
+  <advance width="528" />
+  <unicode hex="02D8" />
+  <anchor x="264" y="484" name="_top" />
+  <anchor x="264" y="685" name="top" />
   <outline>
-    <component base="brevecomb" xOffset="264"/>
+    <component base="brevecomb" xOffset="264" />
   </outline>
   <lib>
     <dict>
