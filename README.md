@@ -10,6 +10,15 @@ The script that transforms Nunito into Dirigible One is at `sources/dirigible.py
 
 Font is built using [gftools](https://github.com/googlefonts/gftools).
 
+Recommended: set up a virtual environment so the dependencies stay separate from the rest of your system. Run this once:
+
+```
+python3 -m venv sources/venv
+source sources/venv/bin/activate
+```
+
+You will see `(venv)` appear at the start of your prompt. That means the environment is active. Repeat the `source` line in any new terminal window to turn it back on.
+
 Install dependencies:
 
 ```
@@ -22,6 +31,20 @@ Build:
 cd sources
 gftools builder config.yaml
 ```
+
+The new font files will appear in `fonts/ttf/`, `fonts/otf/`, and `fonts/webfonts/`.
+
+## Regenerating the UFO from Nunito
+
+The script `sources/dirigible.py` is what turns a Nunito UFO source into the inflated Dirigible One UFO. You only need this if you want to rebuild the source from scratch (for example, after a Nunito update). Most people never need to run it.
+
+To run it, point the script at a Nunito UFO file:
+
+```
+python sources/dirigible.py path/to/Nunito-Regular.ufo
+```
+
+It will write a new `Dirigible-Regular.ufo` next to the script. You can then open it in Glyphs or any other UFO editor.
 
 ## License
 
