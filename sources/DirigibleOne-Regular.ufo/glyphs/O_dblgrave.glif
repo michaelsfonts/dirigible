@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odblgrave" format="2">
+  <advance width="785"/>
+  <unicode hex="020C"/>
+  <anchor x="392" y="-10" name="Qtail"/>
+  <anchor x="392" y="0" name="bottom"/>
+  <anchor x="393" y="353" name="center"/>
+  <anchor x="452" y="0" name="ogonek"/>
+  <anchor x="392" y="865" name="top"/>
+  <anchor x="26" y="705" name="topleft"/>
+  <anchor x="461" y="705" name="topright"/>
+  <outline>
+    <component base="O" identifier="5771E481"/>
+    <component base="dblgravecomb.case" xOffset="392" identifier="FCCD19FC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5771E481</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FCCD19FC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

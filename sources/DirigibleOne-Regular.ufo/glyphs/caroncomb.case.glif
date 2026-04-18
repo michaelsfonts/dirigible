@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
+  <advance width="0"/>
+  <anchor x="0" y="705" name="_top"/>
+  <anchor x="0" y="865" name="top"/>
+  <outline>
+    <contour>
+      <point x="-52.9629" y="744.3855"/>
+      <point x="-10.08928" y="722.30231"/>
+      <point x="19.91072" y="722.30231" type="curve" smooth="yes"/>
+      <point x="49.91072" y="722.30231"/>
+      <point x="93.99972" y="744.36273"/>
+      <point x="112.99972" y="771.36273" type="curve" smooth="yes"/>
+      <point x="205.97911" y="903.08356" type="line" smooth="yes"/>
+      <point x="232.97911" y="942.08356"/>
+      <point x="131.51266" y="1006.40692"/>
+      <point x="99.51266" y="969.40692" type="curve" smooth="yes"/>
+      <point x="27.98817" y="886.94339" type="line"/>
+      <point x="23.66369" y="881.95752"/>
+      <point x="16.6112" y="881.97816"/>
+      <point x="12.31598" y="886.98925" type="curve" smooth="yes"/>
+      <point x="-58.27734" y="969.34808" type="line" smooth="yes"/>
+      <point x="-90.27734" y="1006.34808"/>
+      <point x="-193.271" y="941.15845"/>
+      <point x="-166.271" y="903.15845" type="curve" smooth="yes"/>
+      <point x="-71.9629" y="771.3855" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

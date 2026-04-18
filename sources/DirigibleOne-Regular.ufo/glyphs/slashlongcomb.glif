@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlongcomb" format="2">
+  <advance width="0"/>
+  <unicode hex="0338"/>
+  <anchor x="0" y="246" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-231.88489" y="-49.29792"/>
+      <point x="-115.47081" y="-117.02018"/>
+      <point x="-88.4708" y="-72.02018" type="curve" smooth="yes"/>
+      <point x="242.8835" y="491.17276" type="line" smooth="yes"/>
+      <point x="270.8835" y="539.17279"/>
+      <point x="153.47227" y="608.15338"/>
+      <point x="127.47228" y="564.15338" type="curve" smooth="yes"/>
+      <point x="-202.88489" y="-0.29792" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

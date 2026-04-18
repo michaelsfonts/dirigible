@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="llinebelow.ss02" format="2">
+  <advance width="254"/>
+  <anchor x="127" y="-170" name="bottom"/>
+  <anchor x="127" y="357" name="center"/>
+  <anchor x="303" y="357" name="dot"/>
+  <anchor x="127" y="705" name="top"/>
+  <anchor x="230" y="705" name="topright"/>
+  <outline>
+    <component base="l.ss02" identifier="5820449B"/>
+    <component base="macronbelowcomb" xOffset="127" identifier="4627DC5A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4627DC5A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5820449B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

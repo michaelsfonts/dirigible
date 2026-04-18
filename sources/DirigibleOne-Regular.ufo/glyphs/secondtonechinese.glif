@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="secondtonechinese" format="2">
+  <advance width="540"/>
+  <unicode hex="02CA"/>
+  <anchor x="250" y="484" name="_top"/>
+  <anchor x="250" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="191.74655" y="543.58698"/>
+      <point x="299.56665" y="486.28333"/>
+      <point x="325.56665" y="524.28333" type="curve" smooth="yes"/>
+      <point x="453.72449" y="708.51019" type="line" smooth="yes"/>
+      <point x="493.72449" y="765.51019"/>
+      <point x="344.20004" y="847.4892"/>
+      <point x="314.20004" y="785.4892" type="curve" smooth="yes"/>
+      <point x="212.74655" y="586.58698" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

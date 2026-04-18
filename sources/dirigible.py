@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build Dirigible from Nunito: offset contours outward, round corners, clean up overlaps."""
+"""Build Dirigible One from Nunito: offset contours outward, round corners, clean up overlaps."""
 
 import argparse
 import math
@@ -262,14 +262,14 @@ def _round_corners(glyph, radius):
 
 
 COPYRIGHT = (
-    "Copyright 2026 The Dirigible Project Authors "
+    "Copyright 2026 The Dirigible One Project Authors "
     "(https://github.com/michaelsfonts/dirigible)"
 )
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Build Dirigible from a UFO source."
+        description="Build Dirigible One from a UFO source."
     )
     parser.add_argument(
         "input", nargs="?", default="Nunito-Bold.ufo",
@@ -296,12 +296,12 @@ def main():
     print(f"Loading {args.input} ...")
     font = ufoLib2.Font.open(args.input)
 
-    font.info.familyName = "Dirigible"
+    font.info.familyName = "Dirigible One"
     font.info.styleName = "Regular"
     font.info.postscriptFontName = "Dirigible-Regular"
-    font.info.openTypeNamePreferredFamilyName = "Dirigible"
+    font.info.openTypeNamePreferredFamilyName = "Dirigible One"
     font.info.openTypeNamePreferredSubfamilyName = "Regular"
-    font.info.styleMapFamilyName = "Dirigible"
+    font.info.styleMapFamilyName = "Dirigible One"
     font.info.styleMapStyleName = "regular"
     font.info.openTypeNameUniqueID = "Dirigible-Regular"
     font.info.copyright = COPYRIGHT

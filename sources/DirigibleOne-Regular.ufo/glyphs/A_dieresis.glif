@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis" format="2">
+  <advance width="744"/>
+  <unicode hex="00C4"/>
+  <anchor x="373" y="0" name="bottom"/>
+  <anchor x="704" y="0" name="ogonek"/>
+  <anchor x="373" y="865" name="top"/>
+  <outline>
+    <component base="A" identifier="441B145D"/>
+    <component base="dieresiscomb.case" xOffset="373" identifier="C2C6ADAB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>441B145D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C2C6ADAB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

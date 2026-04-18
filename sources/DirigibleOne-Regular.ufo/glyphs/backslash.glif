@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance width="353"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="226.8185" y="-63.91141" type="line" smooth="yes"/>
+      <point x="246.8185" y="-126.91141"/>
+      <point x="395.3447" y="-84.39801"/>
+      <point x="374.3447" y="-18.39801" type="curve" smooth="yes"/>
+      <point x="126.25298" y="751.65283" type="line" smooth="yes"/>
+      <point x="105.25298" y="815.65283"/>
+      <point x="-41.41866" y="772.66553"/>
+      <point x="-21.41866" y="707.66553" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

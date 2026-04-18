@@ -1,4 +1,7 @@
 sources:
-  - Dirigible-Regular.ufo
-familyName: Dirigible
+  - DirigibleOne-Regular.ufo
+familyName: Dirigible One
 outputDir: ../fonts
+buildStatic: true
+buildVariable: false
+buildWebfont: true

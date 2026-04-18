@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresis-cy" format="2">
+  <advance width="590"/>
+  <unicode hex="04E7"/>
+  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="295" y="248" name="center"/>
+  <anchor x="354" y="0" name="ogonek"/>
+  <anchor x="295" y="685" name="top"/>
+  <anchor x="354" y="484" name="topright"/>
+  <outline>
+    <component base="o-cy" identifier="CC56A15A"/>
+    <component base="dieresiscomb" xOffset="295" identifier="EEE7EF16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CC56A15A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EEE7EF16</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

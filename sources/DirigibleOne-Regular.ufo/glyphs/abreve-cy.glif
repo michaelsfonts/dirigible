@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve-cy" format="2">
+  <advance width="561"/>
+  <unicode hex="04D1"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="457" y="0" name="ogonek"/>
+  <anchor x="286" y="484" name="top"/>
+  <outline>
+    <component base="a-cy" identifier="5C932C69"/>
+    <component base="brevecomb-cy" xOffset="286" identifier="DACD7E7F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5C932C69</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DACD7E7F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <advance width="0"/>
+  <unicode hex="030F"/>
+  <anchor x="0" y="484" name="_top"/>
+  <anchor x="0" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="43.33751" y="530.03076" type="line" smooth="yes"/>
+      <point x="59.33751" y="494.03073"/>
+      <point x="165.44067" y="522.8396"/>
+      <point x="155.44067" y="563.8396" type="curve" smooth="yes"/>
+      <point x="105.49705" y="770.36322" type="line" smooth="yes"/>
+      <point x="92.58447" y="823.62762"/>
+      <point x="-15.61541" y="806.13397"/>
+      <point x="-42.1743" y="764.28479" type="curve"/>
+      <point x="-43.69163" y="770.39404" type="line" smooth="yes"/>
+      <point x="-59.69163" y="836.39404"/>
+      <point x="-220.76805" y="793.64032"/>
+      <point x="-192.76805" y="730.64032" type="curve" smooth="yes"/>
+      <point x="-104.66249" y="530.03076" type="line" smooth="yes"/>
+      <point x="-88.66249" y="494.03073"/>
+      <point x="17.5977" y="522.88696"/>
+      <point x="7.5977" y="563.88696" type="curve" smooth="yes"/>
+      <point x="-19.56633" y="673.25793" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

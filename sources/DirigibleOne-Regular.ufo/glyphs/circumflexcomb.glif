@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb" format="2">
+  <advance width="0"/>
+  <unicode hex="0302"/>
+  <anchor x="0" y="484" name="_top"/>
+  <anchor x="0" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="116.19794" y="483.91287"/>
+      <point x="222.25377" y="544.84839"/>
+      <point x="199.25377" y="586.84839" type="curve" smooth="yes"/>
+      <point x="112.18467" y="748.72333" type="line" smooth="yes"/>
+      <point x="96.18467" y="778.72333"/>
+      <point x="50.89315" y="807.21796"/>
+      <point x="19.89315" y="807.21796" type="curve" smooth="yes"/>
+      <point x="-11.10685" y="807.21796"/>
+      <point x="-55.15668" y="778.68591"/>
+      <point x="-71.15668" y="748.68591" type="curve" smooth="yes"/>
+      <point x="-159.38747" y="586.92944" type="line" smooth="yes"/>
+      <point x="-182.38747" y="544.92944"/>
+      <point x="-76.19794" y="483.91287"/>
+      <point x="-52.19794" y="521.9129" type="curve" smooth="yes"/>
+      <point x="13.51091" y="624.12662" type="line"/>
+      <point x="17.07991" y="629.6784"/>
+      <point x="22.92009" y="629.6784"/>
+      <point x="26.48909" y="624.12662" type="curve" smooth="yes"/>
+      <point x="92.19794" y="521.9129" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

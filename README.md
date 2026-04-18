@@ -1,14 +1,14 @@
-# Dirigible
+# Dirigible One
 
-![Dirigible specimen](documentation/specimen.png)
+![Dirigible One specimen](documentation/specimen.png)
 
-Dirigible is a display typeface based on [Nunito](https://github.com/googlefonts/nunito) by Vernon Adams. Every contour has been pushed outward and all corners rounded as far as they go, so the letters look inflated. Single weight, Regular only.
+Dirigible One is a display typeface based on [Nunito](https://github.com/googlefonts/nunito) by Vernon Adams. Every contour has been pushed outward and all corners rounded as far as they go, so the letters look inflated. Single weight, Regular only.
 
-The script that transforms Nunito into Dirigible is at `sources/dirigible.py`.
+The script that transforms Nunito into Dirigible One is at `sources/dirigible.py`.
 
 ## Building
 
-Fonts are built using [gftools](https://github.com/googlefonts/gftools).
+Font is built using [gftools](https://github.com/googlefonts/gftools).
 
 Install dependencies:
 
@@ -25,6 +25,6 @@ gftools builder config.yaml
 
 ## License
 
-Dirigible is licensed under the [SIL Open Font License, Version 1.1](OFL.txt).
+Dirigible One is licensed under the [SIL Open Font License, Version 1.1](OFL.txt).
 
-Nunito was originally designed by Vernon Adams. Dirigible is a derivative work by Michael Seh.
+Nunito was originally designed by Vernon Adams. Dirigible One is a derivative work by Michael Seh.

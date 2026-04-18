@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldotbelow" format="2">
+  <advance width="319"/>
+  <unicode hex="1E37"/>
+  <anchor x="192" y="-170" name="bottom"/>
+  <anchor x="137" y="357" name="center"/>
+  <anchor x="322" y="352" name="dot"/>
+  <anchor x="127" y="705" name="top"/>
+  <anchor x="230" y="705" name="topright"/>
+  <outline>
+    <component base="l" identifier="26A1D760"/>
+    <component base="dotbelowcomb" xOffset="192" identifier="6A34BF17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>26A1D760</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6A34BF17</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

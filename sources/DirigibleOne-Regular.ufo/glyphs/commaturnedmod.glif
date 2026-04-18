@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="540"/>
+  <unicode hex="02BB"/>
+  <anchor x="250" y="484" name="_top"/>
+  <anchor x="250" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="171.04182" y="573.53796"/>
+      <point x="225.48106" y="519.65106"/>
+      <point x="269.48106" y="519.65106" type="curve" smooth="yes"/>
+      <point x="312.48108" y="519.65106"/>
+      <point x="380.13251" y="578.4389"/>
+      <point x="380.13251" y="615.4389" type="curve" smooth="yes"/>
+      <point x="380.13251" y="651.85449"/>
+      <point x="348.56891" y="680.51764"/>
+      <point x="307.05179" y="682.18915" type="curve"/>
+      <point x="310.1557" y="696.0459"/>
+      <point x="316.92673" y="712.9502"/>
+      <point x="325.38168" y="725.30743" type="curve" smooth="yes"/>
+      <point x="353.38168" y="765.30743"/>
+      <point x="256.59828" y="828.6355"/>
+      <point x="229.59828" y="796.6355" type="curve" smooth="yes"/>
+      <point x="201.59828" y="762.6355"/>
+      <point x="171.04182" y="661.53796"/>
+      <point x="171.04182" y="619.53796" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

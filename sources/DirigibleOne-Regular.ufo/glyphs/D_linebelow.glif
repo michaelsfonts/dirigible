@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dlinebelow" format="2">
+  <advance width="762"/>
+  <unicode hex="1E0E"/>
+  <anchor x="379" y="-170" name="bottom"/>
+  <anchor x="194" y="358" name="center"/>
+  <anchor x="379" y="705" name="top"/>
+  <outline>
+    <component base="D" identifier="C436E0F2"/>
+    <component base="macronbelowcomb" xOffset="379" identifier="997D4885"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>997D4885</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C436E0F2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl" format="2">
+  <advance width="683"/>
+  <unicode hex="FB02"/>
+  <anchor x="161" y="0" name="bottom_1"/>
+  <anchor x="161" y="705" name="top_1"/>
+  <anchor x="556" y="0" name="bottom_2"/>
+  <anchor x="501" y="357" name="center_2"/>
+  <anchor x="686" y="352" name="dot_2"/>
+  <anchor x="491" y="705" name="top_2"/>
+  <anchor x="594" y="705" name="topright_2"/>
+  <anchor x="341.5" y="0" name="caret_1"/>
+  <outline>
+    <component base="f" identifier="517F06F6"/>
+    <component base="l" xOffset="364" identifier="979506BC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>517F06F6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>979506BC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflex.ss01" format="2">
+  <advance width="600"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="501" y="0" name="ogonek"/>
+  <anchor x="298" y="685" name="top"/>
+  <outline>
+    <component base="a.ss01" identifier="A144E51F"/>
+    <component base="circumflexcomb" xOffset="298" identifier="6C3A109E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6C3A109E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A144E51F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

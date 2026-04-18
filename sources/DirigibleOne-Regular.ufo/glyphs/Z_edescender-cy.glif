@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zedescender-cy" format="2">
+  <advance width="635"/>
+  <unicode hex="0498"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <anchor x="308" y="705" name="top"/>
+  <outline>
+    <component base="Ze-cy" identifier="9BF353C4"/>
+    <component base="__Zedescener-cy.case" xOffset="63" identifier="88AA314F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>88AA314F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9BF353C4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

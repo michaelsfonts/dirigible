@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraight-cy" format="2">
+  <advance width="618"/>
+  <unicode hex="04AE"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="309" y="705" name="top"/>
+  <anchor x="17" y="705" name="topleft"/>
+  <anchor x="312" y="310" name="center"/>
+  <outline>
+    <component base="Y" identifier="87088D3D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>87088D3D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

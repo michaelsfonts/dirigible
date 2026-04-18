@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftanglebracket-math" format="2">
+  <advance width="640"/>
+  <unicode hex="27E8"/>
+  <outline>
+    <contour>
+      <point x="330.8949" y="-35.04611"/>
+      <point x="380.93927" y="-63.64289"/>
+      <point x="395.93927" y="-58.64289" type="curve" smooth="yes"/>
+      <point x="410.93927" y="-53.64289"/>
+      <point x="435.0097" y="0.51462"/>
+      <point x="430.0097" y="17.51462" type="curve" smooth="yes"/>
+      <point x="323.30483" y="337.62929" type="line"/>
+      <point x="321.21773" y="343.8906"/>
+      <point x="321.21304" y="354.13794"/>
+      <point x="323.29442" y="360.40116" type="curve" smooth="yes"/>
+      <point x="428.9913" y="678.46155" type="line" smooth="yes"/>
+      <point x="433.9913" y="693.46155"/>
+      <point x="410.0419" y="746.59772"/>
+      <point x="396.0419" y="752.59772" type="curve" smooth="yes"/>
+      <point x="381.0419" y="758.59772"/>
+      <point x="328.78479" y="729.01935"/>
+      <point x="322.78479" y="711.01935" type="curve" smooth="yes"/>
+      <point x="210.75412" y="370.89021" type="line"/>
+      <point x="208.68936" y="364.6215"/>
+      <point x="207" y="354.09255"/>
+      <point x="207" y="347.49255" type="curve" smooth="yes"/>
+      <point x="207" y="341.37866" type="line"/>
+      <point x="207" y="334.77866"/>
+      <point x="208.73525" y="324.26506"/>
+      <point x="210.8561" y="318.0151" type="curve" smooth="yes"/>
+      <point x="324.8949" y="-18.04611" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

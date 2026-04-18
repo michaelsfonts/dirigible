@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.ss02" format="2">
+  <advance width="324"/>
+  <anchor x="162" y="0" name="bottom"/>
+  <anchor x="162" y="357" name="center"/>
+  <anchor x="338" y="357" name="dot"/>
+  <anchor x="162" y="705" name="top"/>
+  <anchor x="265" y="705" name="topright"/>
+  <outline>
+    <component base="l.ss02" xOffset="35" identifier="B529AD07"/>
+    <component base="slashshortcomb" xOffset="162" yOffset="-1" identifier="451D9BCC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=+35</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+35</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>451D9BCC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B529AD07</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

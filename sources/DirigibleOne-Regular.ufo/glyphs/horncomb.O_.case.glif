@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb.O.case" format="2">
+  <advance width="0"/>
+  <anchor x="0" y="705" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="31.24823" y="623.07484" type="line"/>
+      <point x="34.83369" y="617.53368"/>
+      <point x="43.16725" y="613"/>
+      <point x="49.76725" y="613" type="curve" smooth="yes"/>
+      <point x="155.93642" y="613" type="line" smooth="yes"/>
+      <point x="239.93642" y="613"/>
+      <point x="326.93976" y="711.17834"/>
+      <point x="326.93976" y="791.17834" type="curve" smooth="yes"/>
+      <point x="326.93976" y="820.17834"/>
+      <point x="268.94046" y="877.28876"/>
+      <point x="233.94046" y="877.28876" type="curve" smooth="yes"/>
+      <point x="197.94046" y="877.28876"/>
+      <point x="159.48805" y="843.01947"/>
+      <point x="159.48805" y="815.01947" type="curve" smooth="yes"/>
+      <point x="159.48805" y="759.01947"/>
+      <point x="141.67326" y="733.60785"/>
+      <point x="71.67325" y="733.60785" type="curve" smooth="yes"/>
+      <point x="49.67325" y="733.60785"/>
+      <point x="-14.38811" y="737.96741"/>
+      <point x="-44.38811" y="739.96741" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

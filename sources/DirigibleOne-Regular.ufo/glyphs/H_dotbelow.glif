@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hdotbelow" format="2">
+  <advance width="773"/>
+  <unicode hex="1E24"/>
+  <anchor x="387" y="-170" name="bottom"/>
+  <anchor x="387" y="561" name="center"/>
+  <anchor x="386" y="705" name="top"/>
+  <anchor x="23" y="705" name="topleft"/>
+  <outline>
+    <component base="H" identifier="973870DE"/>
+    <component base="dotbelowcomb" xOffset="387" identifier="637A60A9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>637A60A9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>973870DE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

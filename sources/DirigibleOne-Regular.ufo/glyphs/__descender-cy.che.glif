@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__descender-cy.che" format="2">
+  <advance width="69"/>
+  <anchor x="-2" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="-90" y="-127.14919"/>
+      <point x="-43" y="-176.7341"/>
+      <point x="-9" y="-176.7341" type="curve" smooth="yes"/>
+      <point x="26" y="-176.7341"/>
+      <point x="72" y="-127.14919"/>
+      <point x="72" y="-91.14919" type="curve" smooth="yes"/>
+      <point x="72" y="-40" type="line"/>
+      <point x="72" y="-33.4"/>
+      <point x="77.4" y="-28"/>
+      <point x="84" y="-28" type="curve" smooth="yes"/>
+      <point x="139" y="-28" type="line"/>
+      <point x="145.6" y="-28"/>
+      <point x="151" y="-22.6"/>
+      <point x="151" y="-16" type="curve" smooth="yes"/>
+      <point x="151" y="83" type="line"/>
+      <point x="151" y="89.6"/>
+      <point x="145.6" y="95"/>
+      <point x="139" y="95" type="curve" smooth="yes"/>
+      <point x="-15.59798" y="95" type="line" smooth="yes"/>
+      <point x="-52.59798" y="95"/>
+      <point x="-90" y="57.59798"/>
+      <point x="-90" y="20.59798" type="curve" smooth="yes"/>
+      <point x="-90" y="-91.14919" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

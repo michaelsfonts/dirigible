@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="322"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="24.19495" y="-161.64731"/>
+      <point x="94.17501" y="-224.54498"/>
+      <point x="168.175" y="-224.54498" type="curve" smooth="yes"/>
+      <point x="187.175" y="-224.54498"/>
+      <point x="253.9288" y="-217.29445"/>
+      <point x="274.9288" y="-209.29445" type="curve" smooth="yes"/>
+      <point x="313.9288" y="-194.29445"/>
+      <point x="292.90817" y="-79.96445"/>
+      <point x="244.90816" y="-92.96445" type="curve" smooth="yes"/>
+      <point x="233.90816" y="-95.96445"/>
+      <point x="212.21768" y="-98.52319"/>
+      <point x="203.21768" y="-98.52319" type="curve" smooth="yes"/>
+      <point x="186.72888" y="-98.52319"/>
+      <point x="179.91905" y="-100.88991"/>
+      <point x="177.19145" y="-98.53278" type="curve" smooth="yes"/>
+      <point x="174.62556" y="-96.31541"/>
+      <point x="175.67218" y="-89.91774"/>
+      <point x="175.67218" y="-73.4371" type="curve" smooth="yes"/>
+      <point x="175.67218" y="-40.4371"/>
+      <point x="187.85765" y="-29.85646"/>
+      <point x="218.85765" y="-15.85646" type="curve" smooth="yes"/>
+      <point x="235.85765" y="-7.85646"/>
+      <point x="253" y="21.29015"/>
+      <point x="253" y="51.29015" type="curve" smooth="yes"/>
+      <point x="253" y="658.34644" type="line" smooth="yes"/>
+      <point x="253" y="701.34644"/>
+      <point x="202" y="753.22144"/>
+      <point x="161" y="753.22144" type="curve" smooth="yes"/>
+      <point x="120" y="753.22144"/>
+      <point x="69" y="701.34644"/>
+      <point x="69" y="658.34644" type="curve" smooth="yes"/>
+      <point x="69" y="53.74103" type="line" smooth="yes"/>
+      <point x="69" y="34.48045"/>
+      <point x="71.92613" y="25.39573"/>
+      <point x="81.24903" y="14.40781" type="curve"/>
+      <point x="47.87886" y="-13.32367"/>
+      <point x="24.19495" y="-58.66019"/>
+      <point x="24.19495" y="-97.64731" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

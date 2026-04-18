@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="785"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="17.4124" y="45.05753"/>
+      <point x="48.68756" y="-28"/>
+      <point x="108.68756" y="-28" type="curve" smooth="yes"/>
+      <point x="676.31244" y="-28" type="line" smooth="yes"/>
+      <point x="733.31244" y="-28"/>
+      <point x="768.58759" y="43.05753"/>
+      <point x="737.58759" y="112.05753" type="curve" smooth="yes"/>
+      <point x="489.35257" y="673.68933" type="line" smooth="yes"/>
+      <point x="474.35257" y="707.68933"/>
+      <point x="428.10474" y="738.72162"/>
+      <point x="393.10474" y="738.72162" type="curve" smooth="yes"/>
+      <point x="357.10474" y="738.72162"/>
+      <point x="310.68552" y="707.77551"/>
+      <point x="295.68552" y="673.77551" type="curve" smooth="yes"/>
+      <point x="47.4124" y="112.05753" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="387.37085" y="485.76164" type="line"/>
+      <point x="389.94879" y="491.83735"/>
+      <point x="394.17562" y="491.84091"/>
+      <point x="396.7638" y="485.76956" type="curve" smooth="yes"/>
+      <point x="543.72072" y="141.03882" type="line"/>
+      <point x="546.30891" y="134.96747"/>
+      <point x="543.02651" y="130"/>
+      <point x="536.42651" y="130" type="curve" smooth="yes"/>
+      <point x="248.4202" y="130" type="line"/>
+      <point x="241.8202" y="130"/>
+      <point x="238.52942" y="134.97103"/>
+      <point x="241.10736" y="141.04674" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

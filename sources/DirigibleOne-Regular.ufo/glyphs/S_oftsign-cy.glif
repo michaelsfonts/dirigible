@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Softsign-cy" format="2">
+  <advance width="713"/>
+  <unicode hex="042C"/>
+  <outline>
+    <contour>
+      <point x="69" y="12.40202"/>
+      <point x="109.40202" y="-28"/>
+      <point x="153.40202" y="-28" type="curve" smooth="yes"/>
+      <point x="426.3688" y="-28" type="line" smooth="yes"/>
+      <point x="576.36877" y="-28"/>
+      <point x="699.05042" y="72.05175"/>
+      <point x="699.05042" y="206.05174" type="curve" smooth="yes"/>
+      <point x="699.05042" y="340.05176"/>
+      <point x="576.33057" y="439"/>
+      <point x="426.33054" y="439" type="curve" smooth="yes"/>
+      <point x="265" y="439" type="line"/>
+      <point x="258.4" y="439"/>
+      <point x="253" y="444.4"/>
+      <point x="253" y="451" type="curve" smooth="yes"/>
+      <point x="253" y="658.34644" type="line" smooth="yes"/>
+      <point x="253" y="701.34644"/>
+      <point x="202" y="753.22144"/>
+      <point x="161" y="753.22144" type="curve" smooth="yes"/>
+      <point x="120" y="753.22144"/>
+      <point x="69" y="701.34644"/>
+      <point x="69" y="658.34644" type="curve" smooth="yes"/>
+      <point x="69" y="56.40202" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="265" y="130" type="line"/>
+      <point x="258.4" y="130"/>
+      <point x="253" y="135.4"/>
+      <point x="253" y="142" type="curve" smooth="yes"/>
+      <point x="253" y="269" type="line"/>
+      <point x="253" y="275.6"/>
+      <point x="258.4" y="281"/>
+      <point x="265" y="281" type="curve" smooth="yes"/>
+      <point x="390.36838" y="281" type="line" smooth="yes"/>
+      <point x="480.36838" y="281"/>
+      <point x="486.62131" y="275.89355"/>
+      <point x="486.62131" y="205.89355" type="curve" smooth="yes"/>
+      <point x="486.62131" y="134.89355"/>
+      <point x="480.29486" y="130"/>
+      <point x="390.29486" y="130" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

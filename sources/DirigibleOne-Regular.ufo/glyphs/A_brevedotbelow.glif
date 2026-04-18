@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevedotbelow" format="2">
+  <advance width="744"/>
+  <unicode hex="1EB6"/>
+  <anchor x="373" y="-170" name="bottom"/>
+  <anchor x="704" y="0" name="ogonek"/>
+  <anchor x="373" y="865" name="top"/>
+  <outline>
+    <component base="A" identifier="E468F560"/>
+    <component base="dotbelowcomb" xOffset="373" identifier="94C76721"/>
+    <component base="brevecomb.case" xOffset="373" identifier="2F27B3BF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2F27B3BF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>94C76721</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E468F560</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

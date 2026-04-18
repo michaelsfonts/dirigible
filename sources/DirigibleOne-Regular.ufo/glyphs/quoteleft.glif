@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="288"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="251.37157" y="699.11682"/>
+      <point x="149.85309" y="775.43872"/>
+      <point x="114.85308" y="731.43872" type="curve" smooth="yes"/>
+      <point x="67.85308" y="673.43872"/>
+      <point x="38.18324" y="570.57947"/>
+      <point x="38.18324" y="522.57947" type="curve" smooth="yes"/>
+      <point x="38.18324" y="464.5795"/>
+      <point x="95.86641" y="395.5639"/>
+      <point x="142.86641" y="395.5639" type="curve" smooth="yes"/>
+      <point x="187.86641" y="395.5639"/>
+      <point x="258.24283" y="466.3812"/>
+      <point x="258.24283" y="509.3812" type="curve" smooth="yes"/>
+      <point x="258.24283" y="551.83002"/>
+      <point x="225.25594" y="585.7179"/>
+      <point x="182.67725" y="588.78021" type="curve"/>
+      <point x="187.35339" y="608.66461"/>
+      <point x="198.35406" y="633.31763"/>
+      <point x="215.37157" y="654.11682" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

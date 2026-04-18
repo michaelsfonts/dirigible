@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__tail-cy.case" format="2">
+  <advance width="66"/>
+  <anchor x="0" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="7.30491" y="-198.80206"/>
+      <point x="163.00446" y="-233.37492"/>
+      <point x="185.00446" y="-169.37492" type="curve" smooth="yes"/>
+      <point x="253.24649" y="34.11042" type="line" smooth="yes"/>
+      <point x="268.24649" y="80.11042"/>
+      <point x="228.92465" y="131"/>
+      <point x="179.92465" y="131" type="curve" smooth="yes"/>
+      <point x="4" y="131" type="line"/>
+      <point x="-2.6" y="131"/>
+      <point x="-8" y="125.6"/>
+      <point x="-8" y="119" type="curve" smooth="yes"/>
+      <point x="-8" y="-16" type="line"/>
+      <point x="-8" y="-22.6"/>
+      <point x="-2.6" y="-28"/>
+      <point x="4" y="-28" type="curve" smooth="yes"/>
+      <point x="51.26785" y="-28" type="line"/>
+      <point x="57.86785" y="-28"/>
+      <point x="61.57474" y="-33.12771"/>
+      <point x="59.50538" y="-39.3949" type="curve" smooth="yes"/>
+      <point x="31.30491" y="-124.80206" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

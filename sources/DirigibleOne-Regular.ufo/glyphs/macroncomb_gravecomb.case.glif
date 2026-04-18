@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb_gravecomb.case" format="2">
+  <advance width="0"/>
+  <anchor x="0" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-184.35811" y="796"/>
+      <point x="-137.57433" y="755"/>
+      <point x="-110.57433" y="755" type="curve" smooth="yes"/>
+      <point x="150.57433" y="755" type="line" smooth="yes"/>
+      <point x="177.57433" y="755"/>
+      <point x="224.35811" y="796"/>
+      <point x="224.35811" y="820" type="curve" smooth="yes"/>
+      <point x="224.35811" y="843"/>
+      <point x="177.57433" y="885"/>
+      <point x="150.57433" y="885" type="curve" smooth="yes"/>
+      <point x="82.20425" y="885" type="line"/>
+      <point x="75.60425" y="885"/>
+      <point x="71.10146" y="890.32494"/>
+      <point x="72.19805" y="896.83321" type="curve" smooth="yes"/>
+      <point x="78.83463" y="896.78448"/>
+      <point x="82.25422" y="909.53308"/>
+      <point x="76.18755" y="920.51086" type="curve" smooth="yes"/>
+      <point x="0.95761" y="1057.15295" type="line" smooth="yes"/>
+      <point x="-31.04239" y="1114.15295"/>
+      <point x="-175.49472" y="1033.82507"/>
+      <point x="-132.49472" y="982.82507" type="curve" smooth="yes"/>
+      <point x="-56.77665" y="894.12677" type="line"/>
+      <point x="-52.49151" y="889.10705"/>
+      <point x="-54.3855" y="885"/>
+      <point x="-60.9855" y="885" type="curve" smooth="yes"/>
+      <point x="-110.57433" y="885" type="line" smooth="yes"/>
+      <point x="-137.57433" y="885"/>
+      <point x="-184.35811" y="843"/>
+      <point x="-184.35811" y="820" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

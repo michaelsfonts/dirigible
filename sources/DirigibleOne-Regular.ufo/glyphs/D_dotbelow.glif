@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ddotbelow" format="2">
+  <advance width="762"/>
+  <unicode hex="1E0C"/>
+  <anchor x="379" y="-170" name="bottom"/>
+  <anchor x="194" y="358" name="center"/>
+  <anchor x="379" y="705" name="top"/>
+  <outline>
+    <component base="D" identifier="03D95688"/>
+    <component base="dotbelowcomb" xOffset="379" identifier="5123B2D7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>03D95688</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5123B2D7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

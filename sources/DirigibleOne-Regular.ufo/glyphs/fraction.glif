@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="230"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="-182.04056" y="-11.829"/>
+      <point x="-53.01499" y="-86.64433"/>
+      <point x="-21.015" y="-30.64433" type="curve" smooth="yes"/>
+      <point x="378.04056" y="658.82898" type="line" smooth="yes"/>
+      <point x="411.04056" y="715.82898"/>
+      <point x="283.01498" y="792.64435"/>
+      <point x="250.015" y="735.64435" type="curve" smooth="yes"/>
+      <point x="-149.04056" y="46.171" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

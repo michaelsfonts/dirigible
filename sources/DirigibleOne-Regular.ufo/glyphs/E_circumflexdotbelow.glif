@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexdotbelow" format="2">
+  <advance width="597"/>
+  <unicode hex="1EC6"/>
+  <anchor x="328" y="-170" name="bottom"/>
+  <anchor x="498" y="0" name="ogonek"/>
+  <anchor x="328" y="865" name="top"/>
+  <anchor x="23" y="705" name="topleft"/>
+  <outline>
+    <component base="E" identifier="03B62CE7"/>
+    <component base="dotbelowcomb" xOffset="328" identifier="CBA03AA2"/>
+    <component base="circumflexcomb.case" xOffset="328" identifier="E38E2833"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>03B62CE7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CBA03AA2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E38E2833</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

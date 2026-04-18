@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ha-cy" format="2">
+  <advance width="672"/>
+  <unicode hex="0425"/>
+  <anchor x="337" y="0" name="bottom"/>
+  <anchor x="336" y="705" name="top"/>
+  <anchor x="519" y="0" name="bottomright"/>
+  <anchor x="333" y="363" name="center"/>
+  <outline>
+    <component base="X" identifier="1D7395DC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1D7395DC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

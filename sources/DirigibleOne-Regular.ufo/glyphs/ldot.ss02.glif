@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.ss02" format="2">
+  <advance width="359"/>
+  <anchor x="127" y="0" name="bottom"/>
+  <anchor x="127" y="357" name="center"/>
+  <anchor x="303" y="357" name="dot"/>
+  <anchor x="127" y="705" name="top"/>
+  <anchor x="230" y="705" name="topright"/>
+  <outline>
+    <component base="l.ss02" identifier="E76C07D8"/>
+    <component base="periodcentered.loclCAT" xOffset="250" yOffset="5" identifier="FC5610DB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+105</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E76C07D8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FC5610DB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

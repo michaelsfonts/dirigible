@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="esdescender-cy" format="2">
+  <advance width="482"/>
+  <unicode hex="04AB"/>
+  <anchor x="290" y="0" name="bottom"/>
+  <anchor x="291" y="484" name="top"/>
+  <outline>
+    <component base="es-cy" identifier="F9EDBA85"/>
+    <component base="__Zedescener-cy" xOffset="41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>F9EDBA85</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

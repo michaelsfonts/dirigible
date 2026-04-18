@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot" format="2">
+  <advance width="562"/>
+  <unicode hex="013F"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="187" y="387" name="center"/>
+  <anchor x="425" y="394" name="dot"/>
+  <anchor x="141" y="705" name="top"/>
+  <anchor x="311" y="705" name="topright"/>
+  <outline>
+    <component base="L" identifier="D3D0266F"/>
+    <component base="periodcentered.loclCAT" xOffset="372" yOffset="42" identifier="68A9CFCC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-18 16:01:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>68A9CFCC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D3D0266F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

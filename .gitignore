@@ -2,3 +2,5 @@
 sources/venv/
 sources/.ninja_log
 sources/build.ninja
+*.bak
+*.ufo.bak

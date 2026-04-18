@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsa-cy" format="2">
+  <advance width="810"/>
+  <unicode hex="0474"/>
+  <outline>
+    <contour>
+      <point x="296.64417" y="-10.62596"/>
+      <point x="341.22183" y="-42.09011"/>
+      <point x="377.22183" y="-42.09011" type="curve" smooth="yes"/>
+      <point x="414.22183" y="-42.09011"/>
+      <point x="456.63129" y="-9.30881"/>
+      <point x="470.63129" y="23.69119" type="curve" smooth="yes"/>
+      <point x="651.77319" y="448.36832" type="line" smooth="yes"/>
+      <point x="692.77319" y="543.36829"/>
+      <point x="728.49628" y="588.38812"/>
+      <point x="792.49628" y="596.38812" type="curve" smooth="yes"/>
+      <point x="861.49628" y="605.38812"/>
+      <point x="851.95972" y="774.63171"/>
+      <point x="769.95972" y="768.63171" type="curve" smooth="yes"/>
+      <point x="654.95972" y="760.63171"/>
+      <point x="552.59888" y="663.71869"/>
+      <point x="497.59888" y="529.71869" type="curve" smooth="yes"/>
+      <point x="382.00173" y="248.47922" type="line"/>
+      <point x="379.49263" y="242.37476"/>
+      <point x="375.30711" y="242.34125"/>
+      <point x="372.70058" y="248.40474" type="curve" smooth="yes"/>
+      <point x="186.71832" y="681.04987" type="line" smooth="yes"/>
+      <point x="172.71832" y="714.04987"/>
+      <point x="126.2339" y="753.46484"/>
+      <point x="88.2339" y="753.46484" type="curve" smooth="yes"/>
+      <point x="43.23391" y="753.46484"/>
+      <point x="-10.62897" y="680.19421"/>
+      <point x="11.37103" y="630.19421" type="curve" smooth="yes"/>
+      <point x="281.64417" y="23.37404" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

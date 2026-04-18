@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <advance width="585"/>
+  <unicode hex="0149"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="294" y="484" name="top"/>
+  <outline>
+    <component base="apostrophemod" xOffset="-136" identifier="C65EB0E9"/>
+    <component base="n" identifier="9B6D2DAE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9B6D2DAE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C65EB0E9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

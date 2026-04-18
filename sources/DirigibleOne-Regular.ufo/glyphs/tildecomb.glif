@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <advance width="0"/>
+  <unicode hex="0303"/>
+  <anchor x="0" y="484" name="_top"/>
+  <anchor x="0" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="-211.46935" y="596.98529"/>
+      <point x="-170.50003" y="544.21362"/>
+      <point x="-150.50003" y="543.21362" type="curve" smooth="yes"/>
+      <point x="-129.50003" y="542.21362"/>
+      <point x="-93.98929" y="565.62042"/>
+      <point x="-90.98929" y="580.62042" type="curve" smooth="yes"/>
+      <point x="-84.98929" y="610.62042"/>
+      <point x="-74.75814" y="620.90234"/>
+      <point x="-46.75814" y="620.90234" type="curve" smooth="yes"/>
+      <point x="2.24186" y="620.90234"/>
+      <point x="34.18958" y="554.47394"/>
+      <point x="100.18958" y="554.47394" type="curve" smooth="yes"/>
+      <point x="172.18959" y="554.47394"/>
+      <point x="235.46935" y="647.01471"/>
+      <point x="246.46935" y="702.01471" type="curve" smooth="yes"/>
+      <point x="251.46935" y="727.01471"/>
+      <point x="210.50003" y="779.78638"/>
+      <point x="190.50003" y="780.78638" type="curve" smooth="yes"/>
+      <point x="169.50003" y="781.78638"/>
+      <point x="133.98929" y="758.37958"/>
+      <point x="130.98929" y="743.37958" type="curve" smooth="yes"/>
+      <point x="124.98929" y="713.37958"/>
+      <point x="114.75814" y="703.09766"/>
+      <point x="86.75814" y="703.09766" type="curve" smooth="yes"/>
+      <point x="36.75814" y="703.09766"/>
+      <point x="5.81042" y="769.52606"/>
+      <point x="-60.18958" y="769.52606" type="curve" smooth="yes"/>
+      <point x="-132.18959" y="769.52606"/>
+      <point x="-196.46935" y="676.98529"/>
+      <point x="-206.46935" y="621.98529" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

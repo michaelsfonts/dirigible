@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-cy.case" format="2">
+  <advance width="0"/>
+  <anchor x="0" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-172.73071" y="787.88043"/>
+      <point x="-72.9358" y="727.52167"/>
+      <point x="19.0642" y="727.52167" type="curve" smooth="yes"/>
+      <point x="108.0642" y="727.52167"/>
+      <point x="206.09152" y="788.6123"/>
+      <point x="241.09152" y="858.6123" type="curve" smooth="yes"/>
+      <point x="253.09152" y="883.6123"/>
+      <point x="225.81625" y="951.21307"/>
+      <point x="205.81625" y="958.21307" type="curve" smooth="yes"/>
+      <point x="184.81625" y="965.21307"/>
+      <point x="142.15388" y="942.8819"/>
+      <point x="129.15388" y="919.8819" type="curve" smooth="yes"/>
+      <point x="105.15388" y="876.8819"/>
+      <point x="79" y="861.72614"/>
+      <point x="20" y="861.72614" type="curve" smooth="yes"/>
+      <point x="-39" y="861.72614"/>
+      <point x="-65.15388" y="876.8819"/>
+      <point x="-89.15388" y="919.8819" type="curve" smooth="yes"/>
+      <point x="-102.15388" y="942.8819"/>
+      <point x="-143.98698" y="964.79846"/>
+      <point x="-164.98698" y="957.79846" type="curve" smooth="yes"/>
+      <point x="-184.98698" y="950.79846"/>
+      <point x="-214.73071" y="882.88043"/>
+      <point x="-203.73071" y="857.88043" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

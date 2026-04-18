@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__descender-cy.case" format="2">
+  <advance width="85"/>
+  <anchor x="0" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="100" y="-163.59798"/>
+      <point x="149.3504" y="-212.94838"/>
+      <point x="186.3504" y="-212.94838" type="curve" smooth="yes"/>
+      <point x="222.3504" y="-212.94838"/>
+      <point x="270" y="-163.31129"/>
+      <point x="270" y="-126.31129" type="curve" smooth="yes"/>
+      <point x="270" y="54.59798" type="line" smooth="yes"/>
+      <point x="270" y="93.59798"/>
+      <point x="231.59798" y="131"/>
+      <point x="193.59798" y="131" type="curve" smooth="yes"/>
+      <point x="4" y="131" type="line"/>
+      <point x="-2.6" y="131"/>
+      <point x="-8" y="125.6"/>
+      <point x="-8" y="119" type="curve" smooth="yes"/>
+      <point x="-8" y="-16" type="line"/>
+      <point x="-8" y="-22.6"/>
+      <point x="-2.6" y="-28"/>
+      <point x="4" y="-28" type="curve" smooth="yes"/>
+      <point x="88" y="-28" type="line"/>
+      <point x="94.6" y="-28"/>
+      <point x="100" y="-33.4"/>
+      <point x="100" y="-40" type="curve" smooth="yes"/>
+      <point x="100" y="-126.59798" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
