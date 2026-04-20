@@ -44,9 +44,9 @@ To run it, point the script at a Nunito UFO file:
 python sources/dirigible.py path/to/Nunito-Regular.ufo
 ```
 
-It will write a new `Dirigible-Regular.ufo` next to the script. You can then open it in Glyphs or any other UFO editor.
+It will write a new `Dirigible-Regular.ufo` next to the script. This filename is intentionally different from the shipped source (`DirigibleOne-Regular.ufo`) so the script cannot overwrite it. You can open the output in Glyphs or any other UFO editor.
 
-Note: this script only produces the base inflated shapes from Nunito. It does not include the outline corrections that the shipped UFO has. Think of the script's output as a starting point, not a finished font.
+Note: this script only produces the base inflated shapes from Nunito. It does not include the outline corrections that the shipped `DirigibleOne-Regular.ufo` has. Think of the script's output as a starting point, not a finished font.
 
 ## License
 
