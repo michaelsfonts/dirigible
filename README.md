@@ -36,7 +36,7 @@ The new font files will appear in `fonts/ttf/`, `fonts/otf/`, and `fonts/webfont
 
 ## Regenerating the UFO from Nunito
 
-The script `sources/dirigible.py` is what turns a Nunito UFO source into the inflated Dirigible One UFO. You only need this if you want to rebuild the source from scratch (for example, after a Nunito update). Most people never need to run it.
+The script `sources/dirigible.py` is what turns a Nunito UFO source into the inflated Dirigible One UFO. You only need this if you want to rebuild the source from scratch.
 
 To run it, `cd` into `sources/` and point the script at a Nunito UFO file:
 
