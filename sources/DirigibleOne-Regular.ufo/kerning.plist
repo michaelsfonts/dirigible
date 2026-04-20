@@ -28,6 +28,11 @@
       <key>public.kern2.quesion</key>
       <integer>20</integer>
     </dict>
+    <key>g</key>
+    <dict>
+      <key>public.kern2.a</key>
+      <integer>-40</integer>
+    </dict>
     <key>iacute</key>
     <dict>
       <key>public.kern2.braceright</key>
