@@ -398,10 +398,12 @@
       <integer>-23</integer>
       <key>public.kern2.guilsinglleft</key>
       <integer>-23</integer>
+      <key>public.kern2.h</key>
+      <integer>30</integer>
       <key>public.kern2.hyphen</key>
       <integer>-33</integer>
       <key>public.kern2.o</key>
-      <integer>-35</integer>
+      <integer>-25</integer>
       <key>public.kern2.ord</key>
       <integer>5</integer>
       <key>public.kern2.period</key>
@@ -635,7 +637,7 @@
       <key>public.kern2.S</key>
       <integer>-20</integer>
       <key>public.kern2.T</key>
-      <integer>8</integer>
+      <integer>16</integer>
       <key>public.kern2.V</key>
       <integer>7</integer>
       <key>public.kern2.X</key>
@@ -645,7 +647,7 @@
       <key>public.kern2.Z</key>
       <integer>-10</integer>
       <key>public.kern2.a</key>
-      <integer>-20</integer>
+      <integer>-50</integer>
       <key>public.kern2.braceright</key>
       <integer>15</integer>
       <key>public.kern2.degree</key>
@@ -831,6 +833,10 @@
     <dict>
       <key>public.kern2.Bhook</key>
       <integer>40</integer>
+      <key>public.kern2.a</key>
+      <integer>-40</integer>
+      <key>public.kern2.h</key>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.Ha-cy</key>
     <dict>
@@ -991,6 +997,8 @@
     <dict>
       <key>public.kern2.J</key>
       <integer>-20</integer>
+      <key>public.kern2.a</key>
+      <integer>-65</integer>
       <key>public.kern2.period</key>
       <integer>-15</integer>
     </dict>
@@ -1038,11 +1046,11 @@
       <key>public.kern2.guilsinglright</key>
       <integer>-10</integer>
       <key>public.kern2.h</key>
-      <integer>25</integer>
+      <integer>-19</integer>
       <key>public.kern2.hyphen</key>
       <integer>-33</integer>
       <key>public.kern2.o</key>
-      <integer>-13</integer>
+      <integer>-42</integer>
       <key>public.kern2.ord</key>
       <integer>-3</integer>
       <key>public.kern2.period</key>
@@ -1186,6 +1194,8 @@
       <integer>-43</integer>
       <key>public.kern2.Z</key>
       <integer>-15</integer>
+      <key>public.kern2.a</key>
+      <integer>-30</integer>
       <key>public.kern2.braceright</key>
       <integer>-8</integer>
       <key>public.kern2.degree</key>
@@ -1193,11 +1203,13 @@
       <key>public.kern2.guilsinglleft</key>
       <integer>-5</integer>
       <key>public.kern2.h</key>
-      <integer>-20</integer>
+      <integer>-5</integer>
       <key>public.kern2.j</key>
       <integer>20</integer>
       <key>public.kern2.n</key>
-      <integer>18</integer>
+      <integer>-20</integer>
+      <key>public.kern2.o</key>
+      <integer>-10</integer>
       <key>public.kern2.ord</key>
       <integer>0</integer>
       <key>public.kern2.period</key>
@@ -1273,7 +1285,7 @@
       <key>public.kern2.Z</key>
       <integer>-20</integer>
       <key>public.kern2.a</key>
-      <integer>-23</integer>
+      <integer>-34</integer>
       <key>public.kern2.ampersand</key>
       <integer>-15</integer>
       <key>public.kern2.asterisk</key>
@@ -1342,13 +1354,15 @@
       <key>public.kern2.Z</key>
       <integer>-2</integer>
       <key>public.kern2.a</key>
-      <integer>-5</integer>
+      <integer>-60</integer>
       <key>public.kern2.degree</key>
       <integer>10</integer>
       <key>public.kern2.guilsinglleft</key>
       <integer>-18</integer>
       <key>public.kern2.guilsinglright</key>
       <integer>-13</integer>
+      <key>public.kern2.h</key>
+      <integer>-20</integer>
       <key>public.kern2.hyphen</key>
       <integer>-18</integer>
       <key>public.kern2.o</key>
@@ -1386,12 +1400,16 @@
       <integer>-18</integer>
       <key>public.kern2.Z</key>
       <integer>-8</integer>
+      <key>public.kern2.a</key>
+      <integer>-15</integer>
       <key>public.kern2.asterisk</key>
       <integer>-17</integer>
       <key>public.kern2.degree</key>
       <integer>-3</integer>
       <key>public.kern2.f</key>
       <integer>-5</integer>
+      <key>public.kern2.h</key>
+      <integer>20</integer>
       <key>public.kern2.hyphen</key>
       <integer>5</integer>
       <key>public.kern2.ord</key>
@@ -1434,14 +1452,16 @@
       <integer>-78</integer>
       <key>public.kern2.Bhook</key>
       <integer>15</integer>
+      <key>public.kern2.H</key>
+      <integer>-20</integer>
       <key>public.kern2.J</key>
       <integer>-58</integer>
       <key>public.kern2.O</key>
       <integer>-43</integer>
       <key>public.kern2.S</key>
-      <integer>-23</integer>
+      <integer>-15</integer>
       <key>public.kern2.T</key>
-      <integer>13</integer>
+      <integer>50</integer>
       <key>public.kern2.V</key>
       <integer>15</integer>
       <key>public.kern2.Y</key>
@@ -1469,7 +1489,7 @@
       <key>public.kern2.guilsinglright</key>
       <integer>-60</integer>
       <key>public.kern2.h</key>
-      <integer>55</integer>
+      <integer>42</integer>
       <key>public.kern2.hyphen</key>
       <integer>-48</integer>
       <key>public.kern2.n</key>
@@ -1783,7 +1803,7 @@
       <key>public.kern2.guilsinglright</key>
       <integer>-50</integer>
       <key>public.kern2.h</key>
-      <integer>-10</integer>
+      <integer>-11</integer>
       <key>public.kern2.hyphen</key>
       <integer>-50</integer>
       <key>public.kern2.n</key>
@@ -2324,6 +2344,8 @@
       <integer>-5</integer>
       <key>public.kern2.guilsinglright</key>
       <integer>2</integer>
+      <key>public.kern2.h</key>
+      <integer>0</integer>
       <key>public.kern2.hyphen</key>
       <integer>-10</integer>
       <key>public.kern2.o</key>
@@ -2512,7 +2534,7 @@
       <key>public.kern2.guilsinglright</key>
       <integer>5</integer>
       <key>public.kern2.h</key>
-      <integer>0</integer>
+      <integer>-5</integer>
       <key>public.kern2.hyphen</key>
       <integer>13</integer>
       <key>public.kern2.n</key>
@@ -2525,6 +2547,8 @@
       <integer>-10</integer>
       <key>public.kern2.quoteleft</key>
       <integer>-28</integer>
+      <key>public.kern2.s</key>
+      <integer>10</integer>
       <key>public.kern2.slash</key>
       <integer>9</integer>
       <key>public.kern2.t</key>
@@ -2629,6 +2653,8 @@
       <integer>35</integer>
       <key>hbar</key>
       <integer>36</integer>
+      <key>public.kern2.T</key>
+      <integer>70</integer>
       <key>public.kern2.a</key>
       <integer>-5</integer>
       <key>public.kern2.ampersand</key>
@@ -2644,13 +2670,13 @@
       <key>public.kern2.exclam</key>
       <integer>23</integer>
       <key>public.kern2.f</key>
-      <integer>-23</integer>
+      <integer>50</integer>
       <key>public.kern2.guilsinglleft</key>
       <integer>-15</integer>
       <key>public.kern2.guilsinglright</key>
       <integer>-10</integer>
       <key>public.kern2.h</key>
-      <integer>0</integer>
+      <integer>20</integer>
       <key>public.kern2.hyphen</key>
       <integer>-8</integer>
       <key>public.kern2.o</key>
@@ -2666,7 +2692,7 @@
       <key>public.kern2.s</key>
       <integer>-5</integer>
       <key>public.kern2.t</key>
-      <integer>-28</integer>
+      <integer>40</integer>
       <key>public.kern2.trademark</key>
       <integer>60</integer>
       <key>public.kern2.v</key>
@@ -3083,6 +3109,8 @@
       <integer>-20</integer>
       <key>public.kern2.guilsinglright</key>
       <integer>-8</integer>
+      <key>public.kern2.h</key>
+      <integer>-33</integer>
       <key>public.kern2.hyphen</key>
       <integer>-28</integer>
       <key>public.kern2.o</key>
@@ -3104,7 +3132,7 @@
       <key>public.kern2.trademark</key>
       <integer>-20</integer>
       <key>public.kern2.v</key>
-      <integer>-18</integer>
+      <integer>-13</integer>
       <key>public.kern2.x</key>
       <integer>-20</integer>
       <key>public.kern2.z</key>
@@ -3114,6 +3142,8 @@
     <dict>
       <key>idotaccent</key>
       <integer>15</integer>
+      <key>public.kern2.a</key>
+      <integer>-29</integer>
       <key>public.kern2.asterisk</key>
       <integer>25</integer>
       <key>public.kern2.braceright</key>
@@ -3121,9 +3151,9 @@
       <key>public.kern2.f</key>
       <integer>0</integer>
       <key>public.kern2.h</key>
-      <integer>0</integer>
+      <integer>-10</integer>
       <key>public.kern2.n</key>
-      <integer>0</integer>
+      <integer>10</integer>
       <key>public.kern2.o</key>
       <integer>0</integer>
       <key>public.kern2.period</key>
@@ -3132,6 +3162,10 @@
       <integer>0</integer>
       <key>public.kern2.quoteleft</key>
       <integer>35</integer>
+      <key>public.kern2.t</key>
+      <integer>30</integer>
+      <key>public.kern2.v</key>
+      <integer>-20</integer>
     </dict>
     <key>public.kern1.lcaron</key>
     <dict>
@@ -3264,7 +3298,7 @@
     <key>public.kern1.n</key>
     <dict>
       <key>public.kern2.a</key>
-      <integer>-40</integer>
+      <integer>-50</integer>
       <key>public.kern2.asterisk</key>
       <integer>-15</integer>
       <key>public.kern2.degree</key>
@@ -3272,22 +3306,28 @@
       <key>public.kern2.f</key>
       <integer>0</integer>
       <key>public.kern2.h</key>
-      <integer>-45</integer>
+      <integer>10</integer>
       <key>public.kern2.n</key>
-      <integer>-10</integer>
+      <integer>-5</integer>
+      <key>public.kern2.o</key>
+      <integer>-20</integer>
       <key>public.kern2.ord</key>
       <integer>-20</integer>
       <key>public.kern2.quesion</key>
       <integer>-13</integer>
       <key>public.kern2.quoteleft</key>
       <integer>-18</integer>
+      <key>public.kern2.t</key>
+      <integer>-20</integer>
       <key>public.kern2.trademark</key>
       <integer>-25</integer>
       <key>public.kern2.v</key>
-      <integer>-5</integer>
+      <integer>-9</integer>
     </dict>
     <key>public.kern1.o</key>
     <dict>
+      <key>public.kern2.a</key>
+      <integer>-30</integer>
       <key>public.kern2.asterisk</key>
       <integer>-23</integer>
       <key>public.kern2.braceright</key>
@@ -3300,7 +3340,11 @@
       <integer>7</integer>
       <key>public.kern2.guilsinglright</key>
       <integer>10</integer>
+      <key>public.kern2.h</key>
+      <integer>-10</integer>
       <key>public.kern2.hyphen</key>
+      <integer>15</integer>
+      <key>public.kern2.n</key>
       <integer>15</integer>
       <key>public.kern2.ord</key>
       <integer>-28</integer>
@@ -3698,7 +3742,7 @@
     <key>public.kern1.r</key>
     <dict>
       <key>public.kern2.a</key>
-      <integer>-5</integer>
+      <integer>-30</integer>
       <key>public.kern2.ampersand</key>
       <integer>-15</integer>
       <key>public.kern2.asterisk</key>
@@ -3718,9 +3762,11 @@
       <key>public.kern2.guilsinglright</key>
       <integer>-1</integer>
       <key>public.kern2.h</key>
-      <integer>10</integer>
+      <integer>0</integer>
       <key>public.kern2.hyphen</key>
       <integer>-20</integer>
+      <key>public.kern2.n</key>
+      <integer>15</integer>
       <key>public.kern2.o</key>
       <integer>-8</integer>
       <key>public.kern2.ord</key>
@@ -3734,7 +3780,7 @@
       <key>public.kern2.slash</key>
       <integer>-15</integer>
       <key>public.kern2.t</key>
-      <integer>42</integer>
+      <integer>52</integer>
       <key>public.kern2.v</key>
       <integer>30</integer>
       <key>public.kern2.x</key>
@@ -3750,6 +3796,8 @@
       <integer>-5</integer>
       <key>public.kern2.degree</key>
       <integer>-10</integer>
+      <key>public.kern2.h</key>
+      <integer>30</integer>
       <key>public.kern2.ord</key>
       <integer>-7</integer>
       <key>public.kern2.period</key>
@@ -3911,9 +3959,9 @@
       <key>public.kern2.colon</key>
       <integer>2</integer>
       <key>public.kern2.exclam</key>
-      <integer>2</integer>
+      <integer>20</integer>
       <key>public.kern2.f</key>
-      <integer>-2</integer>
+      <integer>37</integer>
       <key>public.kern2.guilsinglleft</key>
       <integer>-15</integer>
       <key>public.kern2.h</key>
@@ -3921,7 +3969,7 @@
       <key>public.kern2.hyphen</key>
       <integer>-5</integer>
       <key>public.kern2.o</key>
-      <integer>-5</integer>
+      <integer>5</integer>
       <key>public.kern2.ord</key>
       <integer>28</integer>
       <key>public.kern2.period</key>
@@ -3931,15 +3979,17 @@
       <key>public.kern2.quoteleft</key>
       <integer>0</integer>
       <key>public.kern2.s</key>
-      <integer>10</integer>
+      <integer>17</integer>
       <key>public.kern2.slash</key>
       <integer>50</integer>
       <key>public.kern2.t</key>
-      <integer>-28</integer>
+      <integer>30</integer>
       <key>public.kern2.trademark</key>
       <integer>-1</integer>
+      <key>public.kern2.u</key>
+      <integer>20</integer>
       <key>public.kern2.v</key>
-      <integer>8</integer>
+      <integer>20</integer>
       <key>public.kern2.x</key>
       <integer>10</integer>
       <key>public.kern2.z</key>
@@ -4003,10 +4053,12 @@
     <dict>
       <key>public.kern2.T</key>
       <integer>0</integer>
+      <key>public.kern2.a</key>
+      <integer>-40</integer>
       <key>public.kern2.braceright</key>
       <integer>0</integer>
       <key>public.kern2.h</key>
-      <integer>-29</integer>
+      <integer>-50</integer>
       <key>public.kern2.n</key>
       <integer>0</integer>
       <key>public.kern2.period</key>
@@ -4120,10 +4172,12 @@
       <integer>-18</integer>
       <key>public.kern2.guilsinglright</key>
       <integer>-10</integer>
+      <key>public.kern2.h</key>
+      <integer>-20</integer>
       <key>public.kern2.hyphen</key>
       <integer>-18</integer>
       <key>public.kern2.o</key>
-      <integer>-10</integer>
+      <integer>-7</integer>
       <key>public.kern2.ord</key>
       <integer>20</integer>
       <key>public.kern2.period</key>
@@ -4173,7 +4227,7 @@
     <key>public.kern1.x</key>
     <dict>
       <key>public.kern2.a</key>
-      <integer>-3</integer>
+      <integer>-44</integer>
       <key>public.kern2.asterisk</key>
       <integer>13</integer>
       <key>public.kern2.degree</key>
@@ -4182,6 +4236,8 @@
       <integer>-28</integer>
       <key>public.kern2.guilsinglright</key>
       <integer>-10</integer>
+      <key>public.kern2.h</key>
+      <integer>-27</integer>
       <key>public.kern2.hyphen</key>
       <integer>-25</integer>
       <key>public.kern2.o</key>
@@ -4202,6 +4258,8 @@
       <integer>-20</integer>
       <key>public.kern2.v</key>
       <integer>-10</integer>
+      <key>public.kern2.x</key>
+      <integer>-20</integer>
       <key>public.kern2.z</key>
       <integer>-5</integer>
     </dict>
