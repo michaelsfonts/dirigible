@@ -3347,7 +3347,7 @@
       <key>public.kern2.guilsinglright</key>
       <integer>10</integer>
       <key>public.kern2.h</key>
-      <integer>25</integer>
+      <integer>-6</integer>
       <key>public.kern2.hyphen</key>
       <integer>15</integer>
       <key>public.kern2.n</key>
@@ -4068,7 +4068,7 @@
       <key>public.kern2.braceright</key>
       <integer>0</integer>
       <key>public.kern2.h</key>
-      <integer>-50</integer>
+      <integer>-20</integer>
       <key>public.kern2.n</key>
       <integer>0</integer>
       <key>public.kern2.period</key>
