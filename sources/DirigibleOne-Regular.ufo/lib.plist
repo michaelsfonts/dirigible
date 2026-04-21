@@ -34,10 +34,6 @@
         <true/>
       </dict>
     </array>
-    <key>com.schriftgestaltung.DisplayStrings</key>
-    <array>
-      <string>Dirigible</string>
-    </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3436</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>

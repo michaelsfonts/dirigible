@@ -3347,7 +3347,7 @@
       <key>public.kern2.guilsinglright</key>
       <integer>10</integer>
       <key>public.kern2.h</key>
-      <integer>-6</integer>
+      <integer>12</integer>
       <key>public.kern2.hyphen</key>
       <integer>15</integer>
       <key>public.kern2.n</key>
@@ -3805,7 +3805,7 @@
       <key>public.kern2.degree</key>
       <integer>-10</integer>
       <key>public.kern2.h</key>
-      <integer>32</integer>
+      <integer>-22</integer>
       <key>public.kern2.o</key>
       <integer>-5</integer>
       <key>public.kern2.ord</key>
