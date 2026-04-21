@@ -3168,7 +3168,7 @@
       <key>public.kern2.n</key>
       <integer>10</integer>
       <key>public.kern2.o</key>
-      <integer>3</integer>
+      <integer>0</integer>
       <key>public.kern2.period</key>
       <integer>0</integer>
       <key>public.kern2.quesion</key>
