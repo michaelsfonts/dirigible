@@ -1203,11 +1203,11 @@
       <key>public.kern2.guilsinglleft</key>
       <integer>-5</integer>
       <key>public.kern2.h</key>
-      <integer>-5</integer>
+      <integer>-25</integer>
       <key>public.kern2.j</key>
       <integer>20</integer>
       <key>public.kern2.n</key>
-      <integer>-20</integer>
+      <integer>0</integer>
       <key>public.kern2.o</key>
       <integer>-10</integer>
       <key>public.kern2.ord</key>
@@ -2540,7 +2540,7 @@
       <key>public.kern2.n</key>
       <integer>0</integer>
       <key>public.kern2.o</key>
-      <integer>11</integer>
+      <integer>5</integer>
       <key>public.kern2.ord</key>
       <integer>-18</integer>
       <key>public.kern2.quesion</key>
@@ -3151,7 +3151,7 @@
       <key>public.kern2.f</key>
       <integer>0</integer>
       <key>public.kern2.h</key>
-      <integer>-10</integer>
+      <integer>-2</integer>
       <key>public.kern2.n</key>
       <integer>10</integer>
       <key>public.kern2.o</key>
@@ -3187,7 +3187,7 @@
       <key>public.kern2.O</key>
       <integer>-8</integer>
       <key>public.kern2.a</key>
-      <integer>0</integer>
+      <integer>-18</integer>
       <key>public.kern2.ampersand</key>
       <integer>-3</integer>
       <key>public.kern2.asterisk</key>
@@ -3308,9 +3308,9 @@
       <key>public.kern2.h</key>
       <integer>10</integer>
       <key>public.kern2.n</key>
-      <integer>-5</integer>
+      <integer>-15</integer>
       <key>public.kern2.o</key>
-      <integer>-20</integer>
+      <integer>-17</integer>
       <key>public.kern2.ord</key>
       <integer>-20</integer>
       <key>public.kern2.quesion</key>
@@ -3341,7 +3341,7 @@
       <key>public.kern2.guilsinglright</key>
       <integer>10</integer>
       <key>public.kern2.h</key>
-      <integer>-10</integer>
+      <integer>-15</integer>
       <key>public.kern2.hyphen</key>
       <integer>15</integer>
       <key>public.kern2.n</key>
@@ -4058,7 +4058,7 @@
       <key>public.kern2.braceright</key>
       <integer>0</integer>
       <key>public.kern2.h</key>
-      <integer>-50</integer>
+      <integer>-20</integer>
       <key>public.kern2.n</key>
       <integer>0</integer>
       <key>public.kern2.period</key>
@@ -4068,7 +4068,7 @@
       <key>public.kern2.trademark</key>
       <integer>-20</integer>
       <key>public.kern2.u</key>
-      <integer>0</integer>
+      <integer>-15</integer>
     </dict>
     <key>public.kern1.u-cy</key>
     <dict>
