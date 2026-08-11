@@ -2365,7 +2365,7 @@
       <key>public.kern2.slash</key>
       <integer>9</integer>
       <key>public.kern2.t</key>
-      <integer>2</integer>
+      <integer>42</integer>
       <key>public.kern2.trademark</key>
       <integer>-15</integer>
       <key>public.kern2.v</key>
@@ -2546,7 +2546,7 @@
       <key>public.kern2.n</key>
       <integer>10</integer>
       <key>public.kern2.o</key>
-      <integer>-5</integer>
+      <integer>-4</integer>
       <key>public.kern2.ord</key>
       <integer>-18</integer>
       <key>public.kern2.quesion</key>
