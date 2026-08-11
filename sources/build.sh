@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+#
+# Build all Dirigible One binaries: otf, ttf, woff2, woff.
+#
+#   ./sources/build.sh        (run from anywhere)
+#
+# Steps:
+#   1. Heal features.fea if a Glyphs export blanked the @Uppercase class,
+#      so the build can't fail on "Empty glyph class in contextual substitution".
+#   2. Build otf / ttf / woff2 via gftools-builder (venv/bin is put on PATH so
+#      the fontmake subprocess it spawns is found).
+#   3. Generate the woff (gftools only emits woff2).
+#
+set -euo pipefail
+cd "$(dirname "$0")"
+
+VENV="$PWD/venv/bin"
+export PATH="$VENV:$PATH"
+
+echo "==> Guard: check @Uppercase class"
+"$VENV/python3" fix_features.py
+
+echo "==> Build otf / ttf / woff2"
+"$VENV/gftools-builder" config.yaml
+
+echo "==> Generate woff"
+"$VENV/python3" - <<'PY'
+from fontTools.ttLib import TTFont
+f = TTFont("../fonts/ttf/DirigibleOne-Regular.ttf")
+f.flavor = "woff"
+f.save("../fonts/webfonts/DirigibleOne-Regular.woff")
+print("woff generated")
+PY
+
+echo "==> Done: fonts/{otf,ttf,webfonts}/DirigibleOne-Regular.*"
