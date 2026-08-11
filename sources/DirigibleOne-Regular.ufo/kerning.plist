@@ -3349,7 +3349,7 @@
       <key>public.kern2.guilsinglright</key>
       <integer>10</integer>
       <key>public.kern2.h</key>
-      <integer>-7</integer>
+      <integer>8</integer>
       <key>public.kern2.hyphen</key>
       <integer>15</integer>
       <key>public.kern2.n</key>
@@ -4003,7 +4003,7 @@
       <key>public.kern2.u</key>
       <integer>20</integer>
       <key>public.kern2.v</key>
-      <integer>20</integer>
+      <integer>40</integer>
       <key>public.kern2.x</key>
       <integer>10</integer>
       <key>public.kern2.z</key>
