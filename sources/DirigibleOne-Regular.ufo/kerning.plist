@@ -3206,7 +3206,7 @@
       <key>public.kern2.n</key>
       <integer>-20</integer>
       <key>public.kern2.o</key>
-      <integer>-22</integer>
+      <integer>-32</integer>
       <key>public.kern2.period</key>
       <integer>0</integer>
       <key>public.kern2.quesion</key>
@@ -4133,7 +4133,7 @@
       <key>public.kern2.braceright</key>
       <integer>0</integer>
       <key>public.kern2.h</key>
-      <integer>-72</integer>
+      <integer>-76</integer>
       <key>public.kern2.n</key>
       <integer>-10</integer>
       <key>public.kern2.o</key>
