@@ -28,11 +28,14 @@ pip install -r requirements.txt
 Build:
 
 ```
-cd sources
-gftools builder config.yaml
+./sources/build.sh
 ```
 
 The new font files will appear in `fonts/ttf/`, `fonts/otf/`, and `fonts/webfonts/`.
+
+`build.sh` runs `gftools builder config.yaml` for you and adds two things gftools does not do on its own. First, it checks `features.fea` before building, because Glyphs sometimes exports an empty `@Uppercase` list that makes the build crash, and it fixes that if it finds it. Second, it creates the `.woff` file, since gftools only produces `woff2`.
+
+Note: you can still run `cd sources` and `gftools builder config.yaml` yourself, but you will only get otf, ttf, and woff2, and it will not catch the empty `@Uppercase` problem if it happens.
 
 ## Regenerating the UFO from Nunito
 

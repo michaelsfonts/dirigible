@@ -331,9 +331,7 @@ sub nine.tosf by nine;
 } case;
 
 feature liga {
-# automatic
 lookupflag IgnoreMarks;
-sub f i by fi;
 sub f l by fl;
 } liga;
 
