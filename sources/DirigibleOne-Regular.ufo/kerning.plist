@@ -2394,7 +2394,7 @@
       <key>public.kern2.guilsinglright</key>
       <integer>2</integer>
       <key>public.kern2.h</key>
-      <integer>0</integer>
+      <integer>30</integer>
       <key>public.kern2.hyphen</key>
       <integer>-10</integer>
       <key>public.kern2.o</key>
@@ -2570,6 +2570,8 @@
     </dict>
     <key>public.kern1.e</key>
     <dict>
+      <key>public.kern2.a</key>
+      <integer>-50</integer>
       <key>public.kern2.asterisk</key>
       <integer>-18</integer>
       <key>public.kern2.braceright</key>
@@ -2589,7 +2591,7 @@
       <key>public.kern2.n</key>
       <integer>10</integer>
       <key>public.kern2.o</key>
-      <integer>-10</integer>
+      <integer>-20</integer>
       <key>public.kern2.ord</key>
       <integer>-18</integer>
       <key>public.kern2.quesion</key>
@@ -3202,9 +3204,9 @@
       <key>public.kern2.f</key>
       <integer>3</integer>
       <key>public.kern2.h</key>
-      <integer>-19</integer>
+      <integer>-39</integer>
       <key>public.kern2.n</key>
-      <integer>-20</integer>
+      <integer>20</integer>
       <key>public.kern2.o</key>
       <integer>-32</integer>
       <key>public.kern2.period</key>
@@ -3833,7 +3835,7 @@
       <key>public.kern2.guilsinglright</key>
       <integer>-1</integer>
       <key>public.kern2.h</key>
-      <integer>-20</integer>
+      <integer>16</integer>
       <key>public.kern2.hyphen</key>
       <integer>-20</integer>
       <key>public.kern2.n</key>
@@ -3868,7 +3870,7 @@
       <key>public.kern2.degree</key>
       <integer>-10</integer>
       <key>public.kern2.h</key>
-      <integer>-22</integer>
+      <integer>-42</integer>
       <key>public.kern2.o</key>
       <integer>-5</integer>
       <key>public.kern2.ord</key>
@@ -4133,7 +4135,7 @@
       <key>public.kern2.braceright</key>
       <integer>0</integer>
       <key>public.kern2.h</key>
-      <integer>-76</integer>
+      <integer>-46</integer>
       <key>public.kern2.n</key>
       <integer>-10</integer>
       <key>public.kern2.o</key>
@@ -4147,7 +4149,7 @@
       <key>public.kern2.trademark</key>
       <integer>-20</integer>
       <key>public.kern2.u</key>
-      <integer>-35</integer>
+      <integer>-45</integer>
     </dict>
     <key>public.kern1.u-cy</key>
     <dict>
