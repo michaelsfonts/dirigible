@@ -33,6 +33,8 @@ Build:
 
 The new font files will appear in `fonts/ttf/`, `fonts/otf/`, and `fonts/webfonts/`.
 
+The build reads the finished source `sources/DirigibleOne-Regular.ufo`. This is the shipped UFO with all the outline corrections, not the raw output of `dirigible.py` (see below).
+
 `build.sh` runs `gftools builder config.yaml` for you and adds two things gftools does not do on its own. First, it checks `features.fea` before building, because Glyphs sometimes exports an empty `@Uppercase` list that makes the build crash, and it fixes that if it finds it. Second, it creates the `.woff` file, since gftools only produces `woff2`.
 
 Note: you can still run `cd sources` and `gftools builder config.yaml` yourself, but you will only get otf, ttf, and woff2, and it will not catch the empty `@Uppercase` problem if it happens.
