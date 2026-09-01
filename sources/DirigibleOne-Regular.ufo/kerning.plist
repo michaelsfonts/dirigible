@@ -1224,6 +1224,8 @@
     </dict>
     <key>public.kern1.O</key>
     <dict>
+      <key>n</key>
+      <integer>12</integer>
       <key>public.kern2.A</key>
       <integer>-15</integer>
       <key>public.kern2.J</key>
@@ -2579,6 +2581,8 @@
     </dict>
     <key>public.kern1.e</key>
     <dict>
+      <key>g</key>
+      <integer>-7</integer>
       <key>n</key>
       <integer>20</integer>
       <key>public.kern2.a</key>
@@ -3208,6 +3212,8 @@
     </dict>
     <key>public.kern1.l</key>
     <dict>
+      <key>g</key>
+      <integer>-27</integer>
       <key>idotaccent</key>
       <integer>15</integer>
       <key>public.kern2.a</key>
@@ -3219,7 +3225,7 @@
       <key>public.kern2.f</key>
       <integer>3</integer>
       <key>public.kern2.h</key>
-      <integer>-29</integer>
+      <integer>-19</integer>
       <key>public.kern2.n</key>
       <integer>0</integer>
       <key>public.kern2.o</key>
@@ -4180,9 +4186,9 @@
       <key>g</key>
       <integer>-52</integer>
       <key>i</key>
-      <integer>-59</integer>
+      <integer>-54</integer>
       <key>l</key>
-      <integer>-43</integer>
+      <integer>-23</integer>
       <key>public.kern2.T</key>
       <integer>0</integer>
       <key>public.kern2.a</key>
