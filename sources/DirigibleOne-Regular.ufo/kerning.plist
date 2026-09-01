@@ -412,6 +412,8 @@
     </dict>
     <key>public.kern1.C</key>
     <dict>
+      <key>J</key>
+      <integer>37</integer>
       <key>public.kern2.A</key>
       <integer>-15</integer>
       <key>public.kern2.J</key>
@@ -875,6 +877,8 @@
     </dict>
     <key>public.kern1.H</key>
     <dict>
+      <key>R</key>
+      <integer>-30</integer>
       <key>public.kern2.Bhook</key>
       <integer>40</integer>
       <key>public.kern2.a</key>
@@ -1318,6 +1322,8 @@
     </dict>
     <key>public.kern1.P</key>
     <dict>
+      <key>N</key>
+      <integer>-10</integer>
       <key>public.kern2.A</key>
       <integer>-73</integer>
       <key>public.kern2.Bhook</key>
@@ -1502,6 +1508,10 @@
     </dict>
     <key>public.kern1.T</key>
     <dict>
+      <key>H</key>
+      <integer>0</integer>
+      <key>R</key>
+      <integer>0</integer>
       <key>public.kern2.A</key>
       <integer>-78</integer>
       <key>public.kern2.Bhook</key>
@@ -1822,6 +1832,8 @@
     </dict>
     <key>public.kern1.V</key>
     <dict>
+      <key>T</key>
+      <integer>35</integer>
       <key>public.kern2.A</key>
       <integer>-60</integer>
       <key>public.kern2.Bhook</key>
@@ -3177,6 +3189,8 @@
     </dict>
     <key>public.kern1.k</key>
     <dict>
+      <key>a</key>
+      <integer>-55</integer>
       <key>public.kern2.a</key>
       <integer>-5</integer>
       <key>public.kern2.asterisk</key>
@@ -3389,6 +3403,8 @@
     </dict>
     <key>public.kern1.n</key>
     <dict>
+      <key>b</key>
+      <integer>-40</integer>
       <key>e</key>
       <integer>-17</integer>
       <key>l</key>
