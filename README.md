@@ -6,6 +6,12 @@ Dirigible One is a display typeface based on [Nunito](https://github.com/googlef
 
 The script that transforms Nunito into Dirigible One is at `sources/dirigible.py`.
 
+## Download
+
+**[Download Dirigible One 1.032](https://github.com/michaelsfonts/dirigible/releases/latest)** — OTF to install on your computer, TTF, WOFF and WOFF2 for the web, or the zip with everything.
+
+The same files are in [`fonts/`](fonts/) if you would rather browse the repo.
+
 ## Building
 
 Font is built using [gftools](https://github.com/googlefonts/gftools).
