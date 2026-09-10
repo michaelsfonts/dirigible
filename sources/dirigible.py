@@ -83,7 +83,7 @@ def _sanitize_contours(glyph):
                     fixed_pts.extend(off_curves)
                     fixed_pts.append(on_pt)
             else:
-                # line or move — no off-curves expected, but include if present
+                # line or move, no off-curves expected, but include if present
                 fixed_pts.extend(off_curves)
                 fixed_pts.append(on_pt)
 
