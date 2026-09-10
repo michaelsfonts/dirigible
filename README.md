@@ -8,9 +8,9 @@ The script that transforms Nunito into Dirigible One is at `sources/dirigible.py
 
 ## Download
 
-**[Download Dirigible One 1.032](https://github.com/michaelsfonts/dirigible/releases/latest)**: OTF to install on your computer, TTF, WOFF and WOFF2 for the web, or the zip with everything.
+[Releases](https://github.com/michaelsfonts/dirigible/releases/latest) carries the OTF for installing, TTF, WOFF and WOFF2 for the web, and a zip with all of it.
 
-The same files are in [`fonts/`](fonts/) if you would rather browse the repo.
+Same files in [`fonts/`](fonts/).
 
 ## Building
 
